@@ -1,0 +1,174 @@
+{
+    "enableComments": false,
+    "enableCategorization": true,
+    "objectFolderExternalReferenceCode": "MAPPATURA",
+    "accountEntryRestrictedObjectFieldName": "",
+    "objectActions": [],
+    "accountEntryRestricted": false,
+    "externalReferenceCode": "Stato",
+    "objectFields": [
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Creazione"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "9525f24a-94ef-e95b-6414-3db37b577220",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "createDate",
+            "state": false,
+            "businessType": "Date"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Autore"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "c3463f92-3fd0-c14a-017b-03465093ac4d",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "creator",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Descrizione"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "3d5b4cfd-1a19-767c-00d2-efc8cd7d59f2",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "name": "descrizione",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Codice di riferimento esterno"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "ac6c3a16-90c6-e1cd-585c-b860e391ede6",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "externalReferenceCode",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Long",
+            "label": {
+                "it_IT": "Id"
+            },
+            "type": "Long",
+            "required": false,
+            "externalReferenceCode": "849cf48e-04e0-215f-7054-1c49ca7af479",
+            "indexedAsKeyword": true,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "id",
+            "state": false,
+            "businessType": "LongInteger"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Ultima Modifica"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "259174c5-2113-efe8-73cf-ea91d29b9c0f",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "modifiedDate",
+            "state": false,
+            "businessType": "Date"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Stato"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "d3de2434-fcb9-d9a6-96d6-7ca50743f27b",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "status",
+            "state": false,
+            "businessType": "Text"
+        }
+    ],
+    "restContextPath": "/o/c/statos",
+    "scope": "site",
+    "portlet": false,
+    "parameterRequired": false,
+    "enableObjectEntryHistory": false,
+    "titleObjectFieldName": "descrizione",
+    "active": true,
+    "defaultLanguageId": "it_IT",
+    "label": {
+        "it_IT": "Stato"
+    },
+    "panelCategoryKey": "site_administration.publishing",
+    "pluralLabel": {
+        "it_IT": "Stati"
+    },
+    "objectLayouts": [],
+    "system": false,
+    "objectViews": [],
+    "name": "Stato",
+    "actions": {
+        "permissions": {},
+        "get": {},
+        "update": {},
+        "delete": {}
+    }
+}

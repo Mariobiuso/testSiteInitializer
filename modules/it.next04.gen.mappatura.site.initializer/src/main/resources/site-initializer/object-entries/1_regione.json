@@ -1,0 +1,85 @@
+{
+    "object-entries": [
+        {
+            "descrizione": "Piemonte",
+            "externalReferenceCode": "Piemonte"
+        },
+        {
+            "descrizione": "Valle d'Aosta",
+            "externalReferenceCode": "Valle d'Aosta"
+        },
+        {
+            "descrizione": "Lombardia",
+            "externalReferenceCode": "Lombardia"
+        },
+        {
+            "descrizione": "Trentino-Alto Adige",
+            "externalReferenceCode": "Trentino-Alto Adige"
+        },
+        {
+            "descrizione": "Veneto",
+            "externalReferenceCode": "Veneto"
+        },
+        {
+            "descrizione": "Friuli-Venezia Giulia",
+            "externalReferenceCode": "Friuli-Venezia Giulia"
+        },
+        {
+            "descrizione": "Liguria",
+            "externalReferenceCode": "Liguria"
+        },
+        {
+            "descrizione": "Emilia-Romagna",
+            "externalReferenceCode": "Emilia-Romagna"
+        },
+        {
+            "descrizione": "Toscana",
+            "externalReferenceCode": "Toscana"
+        },
+        {
+            "descrizione": "Umbria",
+            "externalReferenceCode": "Umbria"
+        },
+        {
+            "descrizione": "Marche",
+            "externalReferenceCode": "Marche"
+        },
+        {
+            "descrizione": "Lazio",
+            "externalReferenceCode": "Lazio"
+        },
+        {
+            "descrizione": "Abruzzo",
+            "externalReferenceCode": "Abruzzo"
+        },
+        {
+            "descrizione": "Molise",
+            "externalReferenceCode": "Molise"
+        },
+        {
+            "descrizione": "Campania",
+            "externalReferenceCode": "Campania"
+        },
+        {
+            "descrizione": "Puglia",
+            "externalReferenceCode": "Puglia"
+        },
+        {
+            "descrizione": "Basilicata",
+            "externalReferenceCode": "Basilicata"
+        },
+        {
+            "descrizione": "Calabria",
+            "externalReferenceCode": "Calabria"
+        },
+        {
+            "descrizione": "Sicilia",
+            "externalReferenceCode": "Sicilia"
+        },
+        {
+            "descrizione": "Sardegna",
+            "externalReferenceCode": "Sardegna"
+        }
+    ],
+    "objectDefinitionName": "Regione"
+}

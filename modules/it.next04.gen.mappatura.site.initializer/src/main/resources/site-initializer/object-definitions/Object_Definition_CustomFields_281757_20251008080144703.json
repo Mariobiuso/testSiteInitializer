@@ -1,0 +1,288 @@
+{
+    "enableComments": false,
+    "objectFolderExternalReferenceCode": "MAPPATURA",
+    "enableCategorization": true,
+    "accountEntryRestrictedObjectFieldName": "",
+    "objectActions": [],
+    "enableLocalization": false,
+    "accountEntryRestricted": false,
+    "externalReferenceCode": "CustomFields",
+    "objectFields": [
+        {
+            "indexed": false,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "true",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Autore"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "033ba3b1-f351-9d39-35d5-4c15054eb323",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "creator",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": false,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "true",
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Creazione"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "07bc9f9e-0c04-d4fe-0f83-877fa336cfd3",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "createDate",
+            "state": false,
+            "businessType": "Date",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": false,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Codice di riferimento esterno"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "2f5293e0-0c18-78f9-e97e-cdb420444935",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "externalReferenceCode",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "true",
+            "DBType": "Long",
+            "label": {
+                "it_IT": "Id"
+            },
+            "type": "Long",
+            "required": false,
+            "externalReferenceCode": "e6a821d7-946c-923d-fdf2-0b1bb6b79de6",
+            "indexedAsKeyword": true,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "id",
+            "state": false,
+            "businessType": "LongInteger",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": false,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "true",
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Ultima Modifica"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "38d782e9-1873-6b3f-54b1-1d124a2fa7b9",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "modifiedDate",
+            "state": false,
+            "businessType": "Date",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": false,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "true",
+            "DBType": "Integer",
+            "label": {
+                "it_IT": "Stato"
+            },
+            "type": "Integer",
+            "required": false,
+            "externalReferenceCode": "81a2b00c-cf35-9038-ddfe-a8d8e863a41e",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "status",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Descrizione"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "2d34ece6-37ed-331e-a4f6-c94f57aa8e6c",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "descrizione",
+            "state": false,
+            "businessType": "LongText",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Categoria"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "37535edb-5e5d-0ccc-13f0-d79a8a8f7e16",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "categoria",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Valori"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "c645f04c-f26f-0b5f-9e28-fd1c1ee7d296",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "valori",
+            "state": false,
+            "businessType": "LongText",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Tipo"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "05047628-6581-1d71-2748-b9a6aa28454a",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "tipo",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Gruppo"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "8fbd3692-7618-e074-4745-0f5723ebac9c",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "gruppo",
+            "state": false,
+            "businessType": "LongText",
+            "readOnlyConditionExpression": ""
+        }
+    ],
+    "restContextPath": "/o/c/customfieldses",
+    "scope": "site",
+    "portlet": true,
+    "modifiable": true,
+    "parameterRequired": false,
+    "enableObjectEntryHistory": false,
+    "titleObjectFieldName": "id",
+    "objectValidationRules": [],
+    "active": true,
+    "defaultLanguageId": "it_IT",
+    "enableIndexSearch": true,
+    "label": {
+        "it_IT": "Custom Fields"
+    },
+    "panelCategoryKey": "site_administration.publishing",
+    "pluralLabel": {
+        "it_IT": "Custom Fields"
+    },
+    "objectLayouts": [],
+    "system": false,
+    "objectViews": [],
+    "enableObjectEntryDraft": false,
+    "name": "CustomFields",
+    "actions": {
+        "permissions": {},
+        "get": {},
+        "update": {},
+        "delete": {},
+        "exportObjectDefinition": {}
+    }
+}

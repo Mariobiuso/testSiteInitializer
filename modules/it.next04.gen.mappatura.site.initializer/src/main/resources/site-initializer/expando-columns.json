@@ -1,0 +1,7 @@
+[
+  {
+    "dataType": 1,
+    "modelResource": "com.liferay.portal.kernel.model.Layout",
+    "name": "Disabilita SennaJS"
+  }
+]

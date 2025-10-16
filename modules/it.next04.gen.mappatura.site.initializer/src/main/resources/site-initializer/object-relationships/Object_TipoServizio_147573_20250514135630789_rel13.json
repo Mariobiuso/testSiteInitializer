@@ -1,0 +1,15 @@
+{
+    "parameterObjectFieldName":  "",
+    "parameterObjectFieldId":  0,
+    "label":  {
+  "en_US" : "ciao",
+                  "it_IT":  "Id Tipo Livello Interventi"
+              },
+    "reverse":  false,
+    "type":  "oneToMany",
+    "name":  "idTipoLivelloInterventi",
+    "deletionType":  "prevent",
+    "objectDefinitionName2":  "TipoLivelloInterventi",
+    "objectDefinitionId1":  "[$OBJECT_DEFINITION_ID:TipoServizio$]",
+    "objectDefinitionId2":  "[$OBJECT_DEFINITION_ID:TipoLivelloInterventi$]"
+}

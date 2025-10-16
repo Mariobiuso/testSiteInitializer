@@ -1,0 +1,174 @@
+{
+    "enableComments": false,
+    "enableCategorization": true,
+    "objectFolderExternalReferenceCode": "MAPPATURA",
+    "accountEntryRestrictedObjectFieldName": "",
+    "objectActions": [],
+    "accountEntryRestricted": false,
+    "externalReferenceCode": "TipoServizio",
+    "objectFields": [
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Creazione"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "c6c7c757-ed74-846e-7381-f9e792407b2e",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "createDate",
+            "state": false,
+            "businessType": "Date"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Autore"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "d2d1feda-891b-b93e-ce88-d657968401f9",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "creator",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Descrizione"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "9665327b-a4ee-4092-ffcd-2bc16d61a1b1",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "descrizione",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Codice di riferimento esterno"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "bd74900c-4ce5-d6a5-8928-2299b61efe0b",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "externalReferenceCode",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Long",
+            "label": {
+                "it_IT": "Id"
+            },
+            "type": "Long",
+            "required": false,
+            "externalReferenceCode": "34979bfe-2692-13a6-cfb9-2358446c135f",
+            "indexedAsKeyword": true,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "id",
+            "state": false,
+            "businessType": "LongInteger"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Ultima Modifica"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "ffc9cebf-1249-b272-8db8-8e5b66eb4ea5",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "modifiedDate",
+            "state": false,
+            "businessType": "Date"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Stato"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "7a82b089-dd5b-22a1-df51-98b936418483",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "status",
+            "state": false,
+            "businessType": "Text"
+        }
+    ],
+    "restContextPath": "/o/c/tiposervizios",
+    "scope": "site",
+    "portlet": false,
+    "parameterRequired": false,
+    "enableObjectEntryHistory": false,
+    "titleObjectFieldName": "descrizione",
+    "active": true,
+    "defaultLanguageId": "it_IT",
+    "label": {
+        "it_IT": "Tipo Servizio"
+    },
+    "panelCategoryKey": "site_administration.publishing",
+    "pluralLabel": {
+        "it_IT": "Tipi Servizio"
+    },
+    "objectLayouts": [],
+    "system": false,
+    "objectViews": [],
+    "name": "TipoServizio",
+    "actions": {
+        "permissions": {},
+        "get": {},
+        "update": {},
+        "delete": {}
+    }
+}

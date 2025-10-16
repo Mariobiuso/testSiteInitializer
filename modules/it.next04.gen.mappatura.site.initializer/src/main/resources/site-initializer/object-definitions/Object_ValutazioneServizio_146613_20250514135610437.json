@@ -1,0 +1,174 @@
+{
+    "enableComments": false,
+    "enableCategorization": true,
+    "objectFolderExternalReferenceCode": "MAPPATURA",
+    "accountEntryRestrictedObjectFieldName": "",
+    "objectActions": [],
+    "accountEntryRestricted": false,
+    "externalReferenceCode": "ValutazioneServizio",
+    "objectFields": [
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Creazione"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "0235f4f8-76a5-1b6f-d5ee-566ef6aa6f3c",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "createDate",
+            "state": false,
+            "businessType": "Date"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Autore"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "0a64e5a7-07ff-8ac9-f956-00e2cde86d05",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "creator",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Descrizione"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "eb63b5c0-6474-d0ab-9806-24678a11a096",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "descrizione",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Codice di riferimento esterno"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "72d170e6-bda5-c2d3-f5b9-3c94716d936f",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "externalReferenceCode",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Long",
+            "label": {
+                "it_IT": "Id"
+            },
+            "type": "Long",
+            "required": false,
+            "externalReferenceCode": "f57c3d24-723c-1e3c-eefc-c19008c872bd",
+            "indexedAsKeyword": true,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "id",
+            "state": false,
+            "businessType": "LongInteger"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Ultima Modifica"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "c4da0fd7-e0e0-2697-5e2a-9e924d4921a3",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "modifiedDate",
+            "state": false,
+            "businessType": "Date"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Stato"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "b700f553-4a5a-b30c-8d9b-a16b6b281c57",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "status",
+            "state": false,
+            "businessType": "Text"
+        }
+    ],
+    "restContextPath": "/o/c/valutazioneservizios",
+    "scope": "site",
+    "portlet": false,
+    "parameterRequired": false,
+    "enableObjectEntryHistory": false,
+    "titleObjectFieldName": "id",
+    "active": true,
+    "defaultLanguageId": "it_IT",
+    "label": {
+        "it_IT": "Valutazione Servizio"
+    },
+    "panelCategoryKey": "site_administration.publishing",
+    "pluralLabel": {
+        "it_IT": "Valutazione Servizio"
+    },
+    "objectLayouts": [],
+    "system": false,
+    "objectViews": [],
+    "name": "ValutazioneServizio",
+    "actions": {
+        "permissions": {},
+        "get": {},
+        "update": {},
+        "delete": {}
+    }
+}

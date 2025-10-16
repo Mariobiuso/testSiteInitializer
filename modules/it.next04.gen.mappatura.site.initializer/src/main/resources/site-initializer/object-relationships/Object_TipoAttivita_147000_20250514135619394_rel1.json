@@ -1,0 +1,15 @@
+{
+    "parameterObjectFieldName":  "",
+    "parameterObjectFieldId":  0,
+    "label":  {
+  "en_US" : "ciao",
+                  "it_IT":  "Tipo Attivita"
+              },
+    "reverse":  false,
+    "type":  "oneToMany",
+    "name":  "tipoAttivita",
+    "deletionType":  "disassociate",
+    "objectDefinitionName2":  "Attivita",
+    "objectDefinitionId1":  "[$OBJECT_DEFINITION_ID:TipoAttivita$]",
+    "objectDefinitionId2":  "[$OBJECT_DEFINITION_ID:Attivita$]"
+}

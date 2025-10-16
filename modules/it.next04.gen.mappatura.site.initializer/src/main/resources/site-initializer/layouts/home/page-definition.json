@@ -1,0 +1,40 @@
+{
+	"pageElement": {
+		"pageElements": [
+			{
+				"definition": {
+					"fragment": {
+						"key": "benvenutohome",
+						"siteKey": "Guest"
+					},
+					"fragmentConfig": {},
+					"fragmentFields": [],
+					"indexed": true
+				},
+				"type": "Fragment"
+			},
+			{
+				"definition": {
+					"widgetInstance": {
+						"widgetConfig": {},
+						"widgetName": "it_next04_ug_mappa_centri_servizi_ItNext04UgMappaCentriServiziPortlet"
+					}
+				},
+				"type": "Widget"
+			},
+			{
+				"definition": {
+					"fragment": {
+						"key": "contatti",
+						"siteKey": "Guest"
+					},
+					"fragmentConfig": {},
+					"fragmentFields": [],
+					"indexed": true
+				},
+				"type": "Fragment"
+			}			
+		],
+		"type": "Root"
+	}
+}

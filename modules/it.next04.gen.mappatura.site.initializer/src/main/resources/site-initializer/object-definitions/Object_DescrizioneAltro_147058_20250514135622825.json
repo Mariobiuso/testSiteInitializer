@@ -1,0 +1,630 @@
+{
+    "enableComments": false,
+    "enableCategorization": true,
+    "objectFolderExternalReferenceCode": "MAPPATURA",
+    "accountEntryRestrictedObjectFieldName": "",
+    "objectActions": [],
+    "accountEntryRestricted": false,
+    "externalReferenceCode": "DescrizioneAltro",
+    "objectFields": [
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Creazione"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "458080cb-d220-910d-8763-63644ea72db2",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "createDate",
+            "state": false,
+            "businessType": "Date"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Autore"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "aee97d84-dfe9-e047-3d17-e2507887b7db",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "creator",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Codice di riferimento esterno"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "b22b89d4-fb15-0f0e-0182-4d29fc5074ce",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "externalReferenceCode",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Long",
+            "label": {
+                "it_IT": "Id"
+            },
+            "type": "Long",
+            "required": false,
+            "externalReferenceCode": "c0d7ad32-2da3-ee26-d524-31c18f265a2d",
+            "indexedAsKeyword": true,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "id",
+            "state": false,
+            "businessType": "LongInteger"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Ultima Modifica"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "c0a40f5c-4be4-4503-4e9d-bc978583ecdb",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "modifiedDate",
+            "state": false,
+            "businessType": "Date"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez A - Descrizione Altro Procedura Accesso"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "b309fb23-6eef-dc13-3f27-164a0c01e04c",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezADescAltroProcAcc",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez A - Descrizione Altro Tipo Invio Paziente"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "b24cca9f-f056-2dd7-8d52-26da08ee8a5a",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezADescAltroTipoInvioPaz",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez A - Descrizione Altro Tipo Modalita Accesso"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "6357b55a-3fa2-57c3-3b0d-e4404f1bf9a2",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezADescAltroTipoModAcc",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez B - Descrizione Altro Attivita"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "a2db8de0-a7b5-f6ba-44d5-89b8c5ed059f",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezBDescAltroAttivita",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez B - Descrizione Altro Tipo Attivita Extra"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "a388fe5e-8278-12c2-7073-087d5450061b",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezBDescAltroTipoAttExtra",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez B - Descrizione Altro Tipo Attivita"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "9e3d45b8-872b-7306-ac52-9869811caa44",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezBDescAltroTipoAttivita",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez B - Descrizione Altro Tipo Attivita Pubblicizzazione"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "f852fd7d-0088-107b-ae99-63c166cfa94d",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezBDescAltroTipoAttPubbliciz",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez B - Descrizione Altro Tipo Archiviazione Dati"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "9b57e27d-5b11-7363-af4a-a627296c8bc2",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezBDescrAltroTipoArchDati",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez C - Descrizione Altro Altre Prestazioni "
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "37190da5-2b6a-0584-9bf7-885c7539832e",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezCDescAltroAltrePrest",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez C - Descrizione Altro Altre Prestazioni"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "ce387b45-3890-e015-506b-a852493e1aea",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezCDescAltroAltrePrestazioni",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez C - Descrizione Altro Tipo Intervento"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "c0a7f71f-8692-6444-8e08-429fae720e4f",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezCDescAltroTipoIntervento",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez C - Descrizione Altro Tipo Livello Interventi"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "cac1c70d-45b9-e907-ed50-ddee107466bf",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezCDescAltroTipoLivInterventi",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez C - Descrizione Altro Tipo Procedura Presa In Carico"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "941ebaa7-e5f8-2705-f7e2-e3d1cd927de2",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezCDescAltroTipoProcPresaCarico",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez C - Descrizione Altro Tipo Strumento Diagnostico"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "80b996b0-4136-ab6d-0155-60874fed6854",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezCDescAltroTipoStrumDiagn",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez C - Descrizione Altro Valutazione Medica"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "fe12fbff-665e-3a2e-e3d3-28f1854ccbf7",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezCDescAltroValMedica",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez C - Descrizione Altro Valutazione Multidisciplinare"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "47703485-7f86-4506-b4f5-34b762cb5409",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezCDescAltroValMultidisciplinare",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez C - Descrizione Altro Valutazione OUTCOME"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "00551a2f-ffd1-2bc2-67d9-7c70d4b7dbac",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezCDescAltroValOUTCOME",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez C - Descrizione Altro Valutazione Psicologica"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "d86ec4e4-7371-85d6-7d2e-3d850d84eeb9",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezCDescAltroValPsicologica",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez C - Descrizione Altro Valutazione Sociale"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "443f3c5a-b097-688b-e7a8-d29b21adc728",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezCDescAltroValutazioneSoc",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez C - Descrizione Altro Valutazione Psicodiagnostica"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "cf676d38-167e-11fd-067d-03576c167091",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "sezCDescrAltroValPsicodiagnostica",
+            "state": false,
+            "businessType": "LongText"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Stato"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "1a9d5f56-5980-031a-ee4a-3cc5b4854d51",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "status",
+            "state": false,
+            "businessType": "Text"
+        }
+    ],
+    "restContextPath": "/o/c/descrizionealtros",
+    "scope": "site",
+    "portlet": false,
+    "parameterRequired": false,
+    "enableObjectEntryHistory": false,
+    "titleObjectFieldName": "id",
+    "active": true,
+    "defaultLanguageId": "it_IT",
+    "label": {
+        "it_IT": "Descrizione Altro"
+    },
+    "panelCategoryKey": "site_administration.publishing",
+    "pluralLabel": {
+        "it_IT": "Descrizioni Altro"
+    },
+    "objectLayouts": [],
+    "system": false,
+    "objectViews": [],
+    "name": "DescrizioneAltro",
+    "actions": {
+        "permissions": {},
+        "get": {},
+        "update": {},
+        "delete": {}
+    }
+}

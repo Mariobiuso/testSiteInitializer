@@ -1,0 +1,555 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Novara",
+      "sigla": "NO",
+      "r_regione_c_regioneERC": "Piemonte"
+    },
+    {
+      "descrizione": "Alessandria",
+      "sigla": "AL",
+      "r_regione_c_regioneERC": "Piemonte"
+    },
+    {
+      "descrizione": "Imperia",
+      "sigla": "IM",
+      "r_regione_c_regioneERC": "Liguria"
+    },
+    {
+      "descrizione": "Savona",
+      "sigla": "SV",
+      "r_regione_c_regioneERC": "Liguria"
+    },
+    {
+      "descrizione": "Sondrio",
+      "sigla": "SO",
+      "r_regione_c_regioneERC": "Lombardia"
+    },
+    {
+      "descrizione": "Cremona",
+      "sigla": "CR",
+      "r_regione_c_regioneERC": "Lombardia"
+    },
+    {
+      "descrizione": "Vicenza",
+      "sigla": "VI",
+      "r_regione_c_regioneERC": "Veneto"
+    },
+    {
+      "descrizione": "Rovigo",
+      "sigla": "RO",
+      "r_regione_c_regioneERC": "Veneto"
+    },
+    {
+      "descrizione": "Ancona",
+      "sigla": "AN",
+      "r_regione_c_regioneERC": "Marche"
+    },
+    {
+      "descrizione": "Frosinone",
+      "sigla": "FR",
+      "r_regione_c_regioneERC": "Lazio"
+    },
+    {
+      "descrizione": "Macerata",
+      "sigla": "MC",
+      "r_regione_c_regioneERC": "Marche"
+    },
+    {
+      "descrizione": "Genova",
+      "sigla": "GE",
+      "r_regione_c_regioneERC": "Liguria"
+    },
+    {
+      "descrizione": "Milano",
+      "sigla": "MI",
+      "r_regione_c_regioneERC": "Lombardia"
+    },
+    {
+      "descrizione": "Brescia",
+      "sigla": "BS",
+      "r_regione_c_regioneERC": "Lombardia"
+    },
+    {
+      "descrizione": "Mantova",
+      "sigla": "MN",
+      "r_regione_c_regioneERC": "Lombardia"
+    },
+    {
+      "descrizione": "Trento",
+      "sigla": "TN",
+      "r_regione_c_regioneERC": "Trentino-Alto Adige"
+    },
+    {
+      "descrizione": "Venezia",
+      "sigla": "VE",
+      "r_regione_c_regioneERC": "Veneto"
+    },
+    {
+      "descrizione": "Ravenna",
+      "sigla": "RA",
+      "r_regione_c_regioneERC": "Emilia-Romagna"
+    },
+    {
+      "descrizione": "Pesaro e Urbino",
+      "sigla": "PU",
+      "r_regione_c_regioneERC": "Marche"
+    },
+    {
+      "descrizione": "Livorno",
+      "sigla": "LI",
+      "r_regione_c_regioneERC": "Toscana"
+    },
+    {
+      "descrizione": "Arezzo",
+      "sigla": "AR",
+      "r_regione_c_regioneERC": "Toscana"
+    },
+    {
+      "descrizione": "Grosseto",
+      "sigla": "GR",
+      "r_regione_c_regioneERC": "Toscana"
+    },
+    {
+      "descrizione": "Roma",
+      "sigla": "RM",
+      "r_regione_c_regioneERC": "Lazio"
+    },
+    {
+      "descrizione": "Caserta",
+      "sigla": "CE",
+      "r_regione_c_regioneERC": "Campania"
+    },
+    {
+      "descrizione": "Benevento",
+      "sigla": "BN",
+      "r_regione_c_regioneERC": "Campania"
+    },
+    {
+      "descrizione": "Avellino",
+      "sigla": "AV",
+      "r_regione_c_regioneERC": "Campania"
+    },
+    {
+      "descrizione": "Salerno",
+      "sigla": "SA",
+      "r_regione_c_regioneERC": "Campania"
+    },
+    {
+      "descrizione": "Teramo",
+      "sigla": "TE",
+      "r_regione_c_regioneERC": "Abruzzo"
+    },
+    {
+      "descrizione": "Pescara",
+      "sigla": "PE",
+      "r_regione_c_regioneERC": "Abruzzo"
+    },
+    {
+      "descrizione": "Bergamo",
+      "sigla": "BG",
+      "r_regione_c_regioneERC": "Lombardia"
+    },
+    {
+      "descrizione": "Verona",
+      "sigla": "VR",
+      "r_regione_c_regioneERC": "Veneto"
+    },
+    {
+      "descrizione": "Treviso",
+      "sigla": "TV",
+      "r_regione_c_regioneERC": "Veneto"
+    },
+    {
+      "descrizione": "Udine",
+      "sigla": "UD",
+      "r_regione_c_regioneERC": "Friuli-Venezia Giulia"
+    },
+    {
+      "descrizione": "La Spezia",
+      "sigla": "SP",
+      "r_regione_c_regioneERC": "Liguria"
+    },
+    {
+      "descrizione": "Gorizia",
+      "sigla": "GO",
+      "r_regione_c_regioneERC": "Friuli-Venezia Giulia"
+    },
+    {
+      "descrizione": "Piacenza",
+      "sigla": "PC",
+      "r_regione_c_regioneERC": "Emilia-Romagna"
+    },
+    {
+      "descrizione": "Parma",
+      "sigla": "PR",
+      "r_regione_c_regioneERC": "Emilia-Romagna"
+    },
+    {
+      "descrizione": "Modena",
+      "sigla": "MO",
+      "r_regione_c_regioneERC": "Emilia-Romagna"
+    },
+    {
+      "descrizione": "Ferrara",
+      "sigla": "FE",
+      "r_regione_c_regioneERC": "Emilia-Romagna"
+    },
+    {
+      "descrizione": "Forlì-Cesena",
+      "sigla": "FC",
+      "r_regione_c_regioneERC": "Emilia-Romagna"
+    },
+    {
+      "descrizione": "Ascoli Piceno",
+      "sigla": "AP",
+      "r_regione_c_regioneERC": "Marche"
+    },
+    {
+      "descrizione": "Varese",
+      "sigla": "VA",
+      "r_regione_c_regioneERC": "Lombardia"
+    },
+    {
+      "descrizione": "Como",
+      "sigla": "CO",
+      "r_regione_c_regioneERC": "Lombardia"
+    },
+    {
+      "descrizione": "Bolzano",
+      "sigla": "BZ",
+      "r_regione_c_regioneERC": "Trentino-Alto Adige"
+    },
+    {
+      "descrizione": "Belluno",
+      "sigla": "BL",
+      "r_regione_c_regioneERC": "Veneto"
+    },
+    {
+      "descrizione": "Padova",
+      "sigla": "PD",
+      "r_regione_c_regioneERC": "Veneto"
+    },
+    {
+      "descrizione": "Trieste",
+      "sigla": "TS",
+      "r_regione_c_regioneERC": "Friuli-Venezia Giulia"
+    },
+    {
+      "descrizione": "Bologna",
+      "sigla": "BO",
+      "r_regione_c_regioneERC": "Emilia-Romagna"
+    },
+    {
+      "descrizione": "Pistoia",
+      "sigla": "PT",
+      "r_regione_c_regioneERC": "Toscana"
+    },
+    {
+      "descrizione": "Viterbo",
+      "sigla": "VT",
+      "r_regione_c_regioneERC": "Lazio"
+    },
+    {
+      "descrizione": "Chieti",
+      "sigla": "CH",
+      "r_regione_c_regioneERC": "Abruzzo"
+    },
+    {
+      "descrizione": "Foggia",
+      "sigla": "FG",
+      "r_regione_c_regioneERC": "Puglia"
+    },
+    {
+      "descrizione": "Pavia",
+      "sigla": "PV",
+      "r_regione_c_regioneERC": "Lombardia"
+    },
+    {
+      "descrizione": "Reggio nell'Emilia",
+      "sigla": "RE",
+      "r_regione_c_regioneERC": "Emilia-Romagna"
+    },
+    {
+      "descrizione": "Aosta",
+      "sigla": "AO",
+      "r_regione_c_regioneERC": "Valle d'Aosta"
+    },
+    {
+      "descrizione": "Terni",
+      "sigla": "TR",
+      "r_regione_c_regioneERC": "Umbria"
+    },
+    {
+      "descrizione": "L'Aquila",
+      "sigla": "AQ",
+      "r_regione_c_regioneERC": "Abruzzo"
+    },
+    {
+      "descrizione": "Lecce",
+      "sigla": "LE",
+      "r_regione_c_regioneERC": "Puglia"
+    },
+    {
+      "descrizione": "Matera",
+      "sigla": "MT",
+      "r_regione_c_regioneERC": "Basilicata"
+    },
+    {
+      "descrizione": "Reggio di Calabria",
+      "sigla": "RC",
+      "r_regione_c_regioneERC": "Calabria"
+    },
+    {
+      "descrizione": "Enna",
+      "sigla": "EN",
+      "r_regione_c_regioneERC": "Sicilia"
+    },
+    {
+      "descrizione": "Sassari",
+      "sigla": "SS",
+      "r_regione_c_regioneERC": "Sardegna"
+    },
+    {
+      "descrizione": "Isernia",
+      "sigla": "IS",
+      "r_regione_c_regioneERC": "Molise"
+    },
+    {
+      "descrizione": "Oristano",
+      "sigla": "OR",
+      "r_regione_c_regioneERC": "Sardegna"
+    },
+    {
+      "descrizione": "Rimini",
+      "sigla": "RN",
+      "r_regione_c_regioneERC": "Emilia-Romagna"
+    },
+    {
+      "descrizione": "Prato",
+      "sigla": "PO",
+      "r_regione_c_regioneERC": "Toscana"
+    },
+    {
+      "descrizione": "Verbano-Cusio-Ossola",
+      "sigla": "VB",
+      "r_regione_c_regioneERC": "Piemonte"
+    },
+    {
+      "descrizione": "Ogliastra",
+      "sigla": "OG",
+      "r_regione_c_regioneERC": "Sardegna"
+    },
+    {
+      "descrizione": "Medio Campidano",
+      "sigla": "VS",
+      "r_regione_c_regioneERC": "Sardegna"
+    },
+    {
+      "descrizione": "Sud Sardegna",
+      "sigla": "SU",
+      "r_regione_c_regioneERC": "Sardegna"
+    },
+    {
+      "descrizione": "Monza e della Brianza",
+      "sigla": "MB",
+      "r_regione_c_regioneERC": "Lombardia"
+    },
+    {
+      "descrizione": "Fermo",
+      "sigla": "FM",
+      "r_regione_c_regioneERC": "Marche"
+    },
+    {
+      "descrizione": "Massa-Carrara",
+      "sigla": "MS",
+      "r_regione_c_regioneERC": "Toscana"
+    },
+    {
+      "descrizione": "Lucca",
+      "sigla": "LU",
+      "r_regione_c_regioneERC": "Toscana"
+    },
+    {
+      "descrizione": "Pisa",
+      "sigla": "PI",
+      "r_regione_c_regioneERC": "Toscana"
+    },
+    {
+      "descrizione": "Latina",
+      "sigla": "LT",
+      "r_regione_c_regioneERC": "Lazio"
+    },
+    {
+      "descrizione": "Asti",
+      "sigla": "AT",
+      "r_regione_c_regioneERC": "Piemonte"
+    },
+    {
+      "descrizione": "Firenze",
+      "sigla": "FI",
+      "r_regione_c_regioneERC": "Toscana"
+    },
+    {
+      "descrizione": "Napoli",
+      "sigla": "NA",
+      "r_regione_c_regioneERC": "Campania"
+    },
+    {
+      "descrizione": "Brindisi",
+      "sigla": "BR",
+      "r_regione_c_regioneERC": "Puglia"
+    },
+    {
+      "descrizione": "Potenza",
+      "sigla": "PZ",
+      "r_regione_c_regioneERC": "Basilicata"
+    },
+    {
+      "descrizione": "Trapani",
+      "sigla": "TP",
+      "r_regione_c_regioneERC": "Sicilia"
+    },
+    {
+      "descrizione": "Cagliari",
+      "sigla": "CA",
+      "r_regione_c_regioneERC": "Sardegna"
+    },
+    {
+      "descrizione": "Biella",
+      "sigla": "BI",
+      "r_regione_c_regioneERC": "Piemonte"
+    },
+    {
+      "descrizione": "Lecco",
+      "sigla": "LC",
+      "r_regione_c_regioneERC": "Lombardia"
+    },
+    {
+      "descrizione": "Lodi",
+      "sigla": "LO",
+      "r_regione_c_regioneERC": "Lombardia"
+    },
+    {
+      "descrizione": "Crotone",
+      "sigla": "KR",
+      "r_regione_c_regioneERC": "Calabria"
+    },
+    {
+      "descrizione": "Vibo Valentia",
+      "sigla": "VV",
+      "r_regione_c_regioneERC": "Calabria"
+    },
+    {
+      "descrizione": "Olbia-Tempio",
+      "sigla": "OT",
+      "r_regione_c_regioneERC": "Sardegna"
+    },
+    {
+      "descrizione": "Torino",
+      "sigla": "TO",
+      "r_regione_c_regioneERC": "Piemonte"
+    },
+    {
+      "descrizione": "Vercelli",
+      "sigla": "VC",
+      "r_regione_c_regioneERC": "Piemonte"
+    },
+    {
+      "descrizione": "Cuneo",
+      "sigla": "CN",
+      "r_regione_c_regioneERC": "Piemonte"
+    },
+    {
+      "descrizione": "Siena",
+      "sigla": "SI",
+      "r_regione_c_regioneERC": "Toscana"
+    },
+    {
+      "descrizione": "Perugia",
+      "sigla": "PG",
+      "r_regione_c_regioneERC": "Umbria"
+    },
+    {
+      "descrizione": "Rieti",
+      "sigla": "RI",
+      "r_regione_c_regioneERC": "Lazio"
+    },
+    {
+      "descrizione": "Campobasso",
+      "sigla": "CB",
+      "r_regione_c_regioneERC": "Molise"
+    },
+    {
+      "descrizione": "Bari",
+      "sigla": "BA",
+      "r_regione_c_regioneERC": "Puglia"
+    },
+    {
+      "descrizione": "Taranto",
+      "sigla": "TA",
+      "r_regione_c_regioneERC": "Puglia"
+    },
+    {
+      "descrizione": "Cosenza",
+      "sigla": "CS",
+      "r_regione_c_regioneERC": "Calabria"
+    },
+    {
+      "descrizione": "Catanzaro",
+      "sigla": "CZ",
+      "r_regione_c_regioneERC": "Calabria"
+    },
+    {
+      "descrizione": "Palermo",
+      "sigla": "PA",
+      "r_regione_c_regioneERC": "Sicilia"
+    },
+    {
+      "descrizione": "Messina",
+      "sigla": "ME",
+      "r_regione_c_regioneERC": "Sicilia"
+    },
+    {
+      "descrizione": "Agrigento",
+      "sigla": "AG",
+      "r_regione_c_regioneERC": "Sicilia"
+    },
+    {
+      "descrizione": "Caltanissetta",
+      "sigla": "CL",
+      "r_regione_c_regioneERC": "Sicilia"
+    },
+    {
+      "descrizione": "Catania",
+      "sigla": "CT",
+      "r_regione_c_regioneERC": "Sicilia"
+    },
+    {
+      "descrizione": "Ragusa",
+      "sigla": "RG",
+      "r_regione_c_regioneERC": "Sicilia"
+    },
+    {
+      "descrizione": "Siracusa",
+      "sigla": "SR",
+      "r_regione_c_regioneERC": "Sicilia"
+    },
+    {
+      "descrizione": "Nuoro",
+      "sigla": "NU",
+      "r_regione_c_regioneERC": "Sardegna"
+    },
+    {
+      "descrizione": "Pordenone",
+      "sigla": "PN",
+      "r_regione_c_regioneERC": "Friuli-Venezia Giulia"
+    },
+    {
+      "descrizione": "Barletta-Andria-Trani",
+      "sigla": "BT",
+      "r_regione_c_regioneERC": "Puglia"
+    }
+  ],
+  "objectDefinitionName": "Provincia"
+}

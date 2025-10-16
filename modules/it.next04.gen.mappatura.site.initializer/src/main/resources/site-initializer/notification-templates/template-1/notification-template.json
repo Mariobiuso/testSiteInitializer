@@ -1,0 +1,23 @@
+{
+	"description": "",
+	"editorType": "richText",
+	"name": "Email Pubblicazione Centro",
+	"recipientType": "email",
+	"recipients": [
+		{
+			"bcc": "",
+			"cc": "",
+			"from": "noreplyportaleiss@iss.it",
+			"fromName": {
+				"it_IT": "Istituto Superiore di Sanità"
+			},
+			"to": {
+				"it_IT": "mario.biuso@next04.it"
+			}
+		}
+	],
+	"subject": {
+		"it_IT": "Pubblicazione Servizio"
+	},
+	"type": "email"
+}

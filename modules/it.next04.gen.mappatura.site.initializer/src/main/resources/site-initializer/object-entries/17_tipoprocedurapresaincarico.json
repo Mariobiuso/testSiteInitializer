@@ -1,0 +1,17 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Linee di indirizzo per presa in carico ospedale-territorio"
+    },
+    {
+      "descrizione": "PDTA"
+    },
+    {
+      "descrizione": "Linee di indirizzo regionali"
+    },
+    {
+      "descrizione": "Altro"
+    }
+  ],
+  "objectDefinitionName": "TipoProceduraPresaInCarico"
+}

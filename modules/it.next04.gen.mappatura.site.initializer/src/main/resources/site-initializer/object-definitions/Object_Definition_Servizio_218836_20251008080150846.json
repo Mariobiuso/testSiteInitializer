@@ -1,0 +1,806 @@
+{
+    "enableComments": false,    
+    "objectFolderExternalReferenceCode": "MAPPATURA",
+    "enableCategorization": true,
+    "accountEntryRestrictedObjectFieldName": "",
+    "className": "com.liferay.object.model.ObjectDefinition#218836",
+    "objectActions": [],
+    "enableLocalization": false,
+    "accountEntryRestricted": false,
+    "externalReferenceCode": "Servizio",
+    "objectFields": [
+        {
+            "indexed": false,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "true",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Autore"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "f7279c94-fbf5-674f-78bd-725c3a80cb6a",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "creator",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": false,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "true",
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Creazione"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "55cc42aa-fd00-f538-36d8-ed40c9ed9eab",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "createDate",
+            "state": false,
+            "businessType": "Date",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": false,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Codice di riferimento esterno"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "7f8bafcb-b491-980e-8058-e533bdae49af",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "externalReferenceCode",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "true",
+            "DBType": "Long",
+            "label": {
+                "it_IT": "Id"
+            },
+            "type": "Long",
+            "required": false,
+            "externalReferenceCode": "3f341515-f841-7751-1f3a-0802c427a0a0",
+            "indexedAsKeyword": true,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "id",
+            "state": false,
+            "businessType": "LongInteger",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": false,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "true",
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Ultima Modifica"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "ed238de3-2d45-a508-28dc-4100ef34c73d",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "modifiedDate",
+            "state": false,
+            "businessType": "Date",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": false,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "true",
+            "DBType": "Integer",
+            "label": {
+                "it_IT": "Stato"
+            },
+            "type": "Integer",
+            "required": false,
+            "externalReferenceCode": "fac7473a-e82f-1068-499b-39c49e09425c",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "status",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Inserimento"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "e796d9d9-610c-8c21-bb9e-9f9dcbd4e285",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "dataInserimento",
+            "state": false,
+            "businessType": "Date",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Modifica"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "00d3e681-545c-dbdd-e4c8-fba6a2726007",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "dataModifica",
+            "state": false,
+            "businessType": "Date",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Pubblicazione"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "caa0cc6b-0552-563e-082a-96a35ac28cc9",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "dataPubblicazione",
+            "state": false,
+            "businessType": "Date",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Richiesta Aggiornamento"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "3fb04db2-78e3-17f9-1cd6-06ad4b3a4598",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "dataRichiestaAggiornamento",
+            "state": false,
+            "businessType": "Date",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "Integer",
+            "label": {
+                "it_IT": "Sez A - Anno Inizio Attivita"
+            },
+            "type": "Integer",
+            "required": false,
+            "externalReferenceCode": "c459b163-34b7-733e-959c-58af750c51d2",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "sezAAnnoInizioAttivita",
+            "state": false,
+            "businessType": "Integer",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Sez A - CAP"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "3532c689-8746-cae4-0d71-1c605343f906",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "sezACAP",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Sez A - Comune "
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "76a9cc84-6f45-d97e-f815-ed0af236c05b",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "sezAComune",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez A - Denominazione Azienda"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "033f8e45-ca34-3f4e-dc1c-411742cfba12",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "sezADenominazioneAzienda",
+            "state": false,
+            "businessType": "LongText",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez A - Denominazione Servizio"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "b9c25788-8a4c-5b23-7bf1-718eed0d9c59",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "sezADenominazioneServizio",
+            "state": false,
+            "businessType": "LongText",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez A - Denominazione Struttura"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "96296ccc-5e8e-fe2e-2bd7-f64612623b6b",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "sezADenominazioneStruttura",
+            "state": false,
+            "businessType": "LongText",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "Integer",
+            "label": {
+                "it_IT": "Sez A - Fascia Eta Massima"
+            },
+            "type": "Integer",
+            "required": false,
+            "externalReferenceCode": "bcc15829-116c-711a-9c24-7527ffdcd27a",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "sezAFasciaEtaMax",
+            "state": false,
+            "businessType": "Integer",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "Integer",
+            "label": {
+                "it_IT": "Sez A - Fascia Eta Minima"
+            },
+            "type": "Integer",
+            "required": false,
+            "externalReferenceCode": "8df912dc-63f4-79be-f067-1754bca16be4",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "sezAFasciaEtaMin",
+            "state": false,
+            "businessType": "Integer",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez A - Indirizzo"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "d9b85978-ff13-8874-8fb8-e30132516424",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "sezAIndirizzo",
+            "state": false,
+            "businessType": "LongText",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "BigDecimal",
+            "label": {
+                "it_IT": "Sez A - Latitudine"
+            },
+            "type": "BigDecimal",
+            "required": false,
+            "externalReferenceCode": "9be76a62-8d98-9351-c4c2-a4a7b9cb5ee0",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "sezALatitudine",
+            "state": false,
+            "businessType": "PrecisionDecimal",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "BigDecimal",
+            "label": {
+                "it_IT": "Sez A - Longitudine "
+            },
+            "type": "BigDecimal",
+            "required": false,
+            "externalReferenceCode": "552fcd3b-b5c2-e852-1f1e-f0cf161ca4ac",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "sezALongitudine",
+            "state": false,
+            "businessType": "PrecisionDecimal",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Sez A - Servizio Sanitario Nazionale"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "f19e3bf7-2e92-0c39-7b68-69d64d6bebc7",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "sezAServizioSanitarioNazionale",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Sez A - Tempo Medio Attesa"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "0b187ba5-727f-a114-51d4-67ea6bffba50",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "sezATempoMedioAttesa",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "Integer",
+            "label": {
+                "it_IT": "Sez B - Numero Professionisti Equipe"
+            },
+            "type": "Integer",
+            "required": false,
+            "externalReferenceCode": "1db612be-ff0b-cef2-a52e-35a6a50aa31b",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "sezBNumProfessionistiEquipe",
+            "state": false,
+            "businessType": "Integer",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Sez C - Collaborazioni Struttura"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "8cbeab6e-c699-bf8c-73cc-607aa3dcfa53",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "sezCCollaborazioniStruttura",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Sez C - Descrizione Percorsi Integrati Comorbilita"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "a86f64b5-8b91-f551-89bb-250420d558a8",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "sezCDescPercorsiIntegrComorb",
+            "state": false,
+            "businessType": "LongText",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Sez C - Fase Accoglienza"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "b3610577-29c6-5a5d-d4d5-e415e3e8b46f",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "sezCFaseAccoglienza",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Sez C - Figura Preposta Accoglienza"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "6b4920e0-2d7b-24ed-8fe0-ff1c84c5655b",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "sezCFigPrepostaAccoglienza",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Sez C - Percorsi Integrati Comorbilita"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "f0b1539c-a230-50af-f0dc-056d3ee5b095",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "sezCPercorsiIntegratiComorb",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Sez C - Valutazione Patologie Pregresse"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "b4109bc0-4151-45e5-8934-5728d87c7541",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "sezCValPatologiePregresse",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "Integer",
+            "label": {
+                "it_IT": "Sez D - Numero Utenti In Carico"
+            },
+            "type": "Integer",
+            "required": false,
+            "externalReferenceCode": "9d701ae7-9d53-ebe8-27b0-148177c14a7f",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "sezDNumUtentiInCarico",
+            "state": false,
+            "businessType": "Integer",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "Boolean",
+            "label": {
+                "it_IT": "Trattamento Dati"
+            },
+            "type": "Boolean",
+            "required": false,
+            "externalReferenceCode": "574bf32b-df4c-67a7-c42a-3cd8b4cb4404",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "trattamentoDati",
+            "state": false,
+            "businessType": "Boolean",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Sez A - Id Sede Centrale"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "24164da8-6eeb-cc59-70f2-fe103b7d7e0d",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "sezAIdSedeCentrale",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        }
+    ],
+    "restContextPath": "/o/c/servizios",
+    "scope": "site",
+    "portlet": false,
+    "modifiable": true,
+    "parameterRequired": false,
+    "enableObjectEntryHistory": false,
+    "titleObjectFieldName": "id",
+    "objectValidationRules": [],
+    "active": true,
+    "defaultLanguageId": "it_IT",
+    "enableIndexSearch": true,
+    "label": {
+        "it_IT": "Servizio"
+    },
+    "panelCategoryKey": "site_administration.publishing",
+    "pluralLabel": {
+        "it_IT": "Servizi"
+    },
+    "objectLayouts": [],
+    "system": false,
+    "objectViews": [],
+    "enableObjectEntryDraft": false,
+    "name": "Servizio",
+    "actions": {
+        "permissions": {},
+        "get": {},
+        "update": {},
+        "delete": {},
+        "exportObjectDefinition": {}
+    }
+}

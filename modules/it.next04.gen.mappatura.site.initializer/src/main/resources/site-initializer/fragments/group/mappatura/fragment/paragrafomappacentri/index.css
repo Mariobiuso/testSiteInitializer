@@ -1,0 +1,39 @@
+.fragment_201 {
+}
+
+.disturbi-nutrizione{
+ padding-top:40px;
+	padding-bottom:40px;
+	background-color:#fff;
+}
+
+ .disturbi-nutrizione-title{
+		position:relative;
+	}
+	
+	.disturbi-nutrizione-title h2{
+		font-size: 27px;
+		font-weight: bold;
+		text-transform: uppercase;
+		margin-bottom: 20px;
+		padding-bottom: 0;
+		color: #0f394c;
+		padding-bottom:20px;
+		font-family:'Dosis';
+	}
+
+	.disturbi-nutrizione-title h2::after{
+		content: "";
+		position: absolute;
+		display: block;
+		width: 50px;
+		height: 3px;
+		background: #49b5e7;
+		bottom: 0;
+		left: calc(50% - 25px);
+	}
+	
+	.disturbi-nutrizione p{
+		color: #0f394c;
+		line-height: 1.8;
+	}

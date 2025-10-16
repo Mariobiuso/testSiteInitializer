@@ -1,0 +1,9 @@
+{
+	"friendlyURL": "/registrazione-utente-centro",
+	"hidden": false,
+	"name": "Registrazione Utente Centro",
+	"priority": 2,
+	"private": true,
+	"system": false,
+	"type": "Content"
+}

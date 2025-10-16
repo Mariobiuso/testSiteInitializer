@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+
+<root available-locales="it_IT" default-locale="it_IT" version="1.0">
+	<dynamic-element field-reference="content" index-type="text" instance-id="0H7Y5sA8" name="content" type="rich_text">
+		<dynamic-content language-id="it_IT">
+			<![CDATA[
+            <!-- =====( FOOTER ) =========================================================== --><!-- 20200302 1517 --><!-- 20200416 1836 --><!-- 20200511 1845 --><!-- 20210212 1436 --><!-- 20220124 0949 --><!-- 20220923 1713 --><!-- 20230206 1941 --><!-- 20230330 1105 --><!-- 20230726 1211 cancellata riga web@iss.it --><!-- =====( JS ) =============================================================== --><script type="text/javascript" id="cookieinfo" src="//cookieinfoscript.com/js/cookieinfo.min.js" data-bg="#787878" data-fg="#FFFFFF" data-divlink="FFFFFF" data-divlinkbg="#39A1E6" data-close-text="Acconsento" data-linkmsg="Maggiori Informazioni" data-moreinfo="/privacy-cookie-policy" data-message="&lt;strong>Utilizziamo i cookie per essere sicuri che tu possa avere la migliore esperienza sul nostro sito. Se vai avanti nella navigazione, riteniamo che tu sia d’accordo&lt;/strong>" data-link="#52b1ff" data-cookie="CookieInfoScript" data-text-align="left">
+            </script><script type="text/javascript">
+                function getURL()
+                {
+                    stringa = "https://www.iss.it/accessibilita-prima-istanza?urlPage=" + window.location.href +"&titlePage="+ document.title;
+                    location.href = stringa;
+                }
+            </script><!-- =====( Prima riga ) ======================================================= -->
+            <div class="row">
+            <div class="col-lg-12" id="iss-footer-container">
+            <div class="row"><!-- =====( Logo e logotipo ) ================================================== -->
+            <div class="col-lg-11 offset-lg-1">
+            <h4 id="iss-footer-title"><span contenteditable="false" tabindex="-1"> <img alt="logo ISS" data-fileentryid="827101" data-widget="image" src="/documents/d/guest/iss-footer#,#include-friendly-url=true" /></span> Istituto Superiore di Sanità</h4>
+            </div>
+            </div>
+            </div>
+            </div>
+            <!-- =====( Seconda riga ) ===================================================== -->
+
+            <div class="row" id="iss-footer">
+            <div class="col-lg-10 offset-lg-1">
+            <div class="row"><!-- =====( Colonna sinistra ) ================================================= -->
+            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12"><!-- =====( Colonna sinistra  - Contatti ) ===================================== -->
+            <h6 class="iss-footer-title-par"><strong>I NOSTRI CONTATTI</strong></h6>
+
+            <hr class="iss-footer-hr" />
+            <p class="iss-footer-par"><span>Viale Regina Elena 299, 00161 - Roma (I)</span><br />
+            <span><strong>Partita I.V.A.</strong> 03657731000</span><br />
+            <span><strong>C.F.</strong> 80211730587</span><br />
+            <span><strong>Telefono: </strong> 06 4990 1</span><br />
+            <span><strong>Fax: </strong> 06 4938 7118</span><br />
+            <span><strong>PEC:</strong> <a href="mailto:protocollo.centrale@pec.iss.it">protocollo.centrale@pec.iss.it</a></span></p>
+            <!-- =====( Colonna sinistra  - Privacy ) ===================================== -->
+
+            <h6 class="iss-footer-title-par"><strong>PRIVACY</strong></h6>
+
+            <hr class="iss-footer-hr" />
+            <p class="iss-footer-par"><span><a href="/privacy">Informazioni per la privacy</a></span><br />
+            <span><a href="/privacy-informazioni#contatti">Contatti</a></span><br />
+            <span><a href="/privacy-cookie-policy">Cookie policy</a></span></p>
+            </div>
+            <!-- =====( Colonna centrale ) ================================================= -->
+
+            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12"><!-- =====( Colonna centrale  - Attività ) ===================================== -->
+            <h6 class="iss-footer-title-par"><strong>ATTIVITÀ</strong></h6>
+
+            <hr class="iss-footer-hr" />
+            <p class="iss-footer-par"><a href="/basi-di-dati"><span>Basi di dati</span></a><br />
+            <a href="/collaborazioni-internazionali"><span>Collaborazioni internazionali</span></a><br />
+            <a href="/comitato-etico"><span>Comitato Etico Nazionale</span></a><br />
+            <a href="/eventi"><span>Eventi</span></a><br />
+            <a href="/formazione-"><span>Formazione</span></a><br />
+            <a href="/laboratori-di-riferimento"><span>Laboratori di riferimento</span></a><br />
+            <a href="/lineeguida-snlg" target="_blank"><span>Linee guida</span></a><br />
+            <a href="/organismo-notificato1"><span>Organismo Notificato</span></a><br />
+            <a href="/progetti"><span>Progetti</span></a><br />
+            <a href="/publ" target="_blank"><span>Pubblicazioni</span></a><br />
+            <a href="/registri-e-sorveglianze"><span>Registri e sorveglianze</span></a><br />
+            <a href="/scuola" target="_blank"><span>Scuola</span></a><br />
+            <a href="/sperimentazione-clinica-di-fase-i"><span>Sperimentazione clinica fase I</span></a></p>
+            </div>
+            <!-- =====( Colonna destra ) =================================================== -->
+
+            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12"><!-- =====( Colonna destra - Servizi ) ========================================= -->
+            <h6 class="iss-footer-title-par"><strong>SERVIZI</strong></h6>
+
+            <hr class="iss-footer-hr" />
+            <p class="iss-footer-par"><a href="/aule"><span>Aule</span></a><br />
+            <a href="/at-bandi-di-concorso" target="_blank"><span>Bandi e concorsi</span></a><br />
+            <a href="/biblioteca"><span>Biblioteca</span></a><br />
+            <a href="/patrocini"><span>Patrocini</span></a><br />
+            <a href="/tariffe-dei-servizi-a-terzi"><span>Tariffe dei servizi a terzi</span></a></p>
+            <!-- =====( Colonna destra - Accessibilità ) ========================================= -->
+
+            <h6 class="iss-footer-title-par"><strong>ATTI DI NOTIFICA</strong></h6>
+
+            <hr class="iss-footer-hr" />
+            <p class="iss-footer-par"><a href="/atti-di-notifica"><span>Atti di notificazione per pubblici proclami</span></a></p>
+            <!-- =====( Colonna destra - Accessibilità ) ========================================= -->
+
+            <h6 class="iss-footer-title-par"><strong>ACCESSIBILITÀ</strong></h6>
+
+            <hr class="iss-footer-hr" />
+            <p class="iss-footer-par"><a href="https://form.agid.gov.it/view/44834069-2840-4630-8c41-3ccc889fb72f"><span>Dichiarazione di accessibilità</span></a></p>
+            </div>
+            </div>
+            </div>
+            </div>
+            <!-- =====( Terza riga ) ======================================================= -->
+
+            <div class="row">
+            <div class="col-lg-12" id="iss-footer-container">
+            <div class="row"><!-- =====( Terza riga - Note legali, Accessibilità (s.p.i.), Sitemap ) ======== -->
+            <div class="offset-lg-1 col-lg-10">
+            <hr class="iss-footer-hr" /></div>
+
+            <div class="offset-lg-1 col-lg-5">
+            <p class="iss-footer-par"><span>Seguici su: </span> <a class="iss-footer-social-icon" href="https://www.facebook.com/ISS.social/"><i class="fab fa-facebook-f"></i></a> <a class="iss-footer-social-icon" href="https://twitter.com/istsupsan"><i class="fab fa-twitter"></i></a> <a class="iss-footer-social-icon" href="https://www.instagram.com/iss_social/"><i class="fab fa-instagram"></i></a> <a class="iss-footer-social-icon" href="https://www.youtube.com/user/istsupsan"><i class="fab fa-youtube"></i></a> <a class="iss-footer-social-icon" href="https://www.linkedin.com/company/istituto-superiore-di-sanit-/"><i class="fab fa-linkedin-in"></i></a></p>
+            </div>
+
+            <div class="col-lg-5">
+            <p class="iss-footer-par" style="float:right;"><a href="#" onclick="getURL()">Accessibilità: form di segnalazione di prima istanza per questa pagina</a> | <a href="/contatti"><span>Note Legali</span></a> <!--|<a href="/mappa-del-sito"><span>Sitemap</span></a>--></p>
+            </div>
+            </div>
+            </div>
+            </div>
+
+			]]>
+		</dynamic-content>
+	</dynamic-element>
+</root>

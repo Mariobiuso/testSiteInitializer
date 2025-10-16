@@ -1,0 +1,56 @@
+{
+	"fieldSets": [
+		{
+            "fields": [
+                {
+                    "name": "title",
+                    "label": "Title",
+                    "description": "header section title",
+                    "type": "text",
+                    "typeOptions": {
+                        "placeholder": "Placeholder"
+                    },
+                    "dataType": "string",
+                    "defaultValue": "Benvenuto sul portale per la cura"
+                },
+							 {
+                    "name": "titleAccent",
+                    "label": "Title Accents",
+                    "description": "header section title",
+                    "type": "text",
+                    "typeOptions": {
+                        "placeholder": "Placeholder"
+                    },
+                    "dataType": "string",
+                    "defaultValue": "Disturbi Alimentari"
+                },
+							 {
+                    "name": "description",
+                    "label": "Description",
+                    "description": "header section description",
+                    "type": "text",
+                    "typeOptions": {
+                        "placeholder": "Placeholder"
+                    },
+                    "dataType": "string",
+                    "defaultValue": "Odio et unde deleniti. Deserunt."
+                },
+							  {
+                    "label": "Image Url",
+                    "name": "imageUrl",
+                    "type": "url"
+                },
+							  {
+                    "label": "Mappa dei centri Url",
+                    "name": "mappaUrl",
+                    "type": "url"
+                },
+							 {
+                    "label": "Mi inforno Url",
+                    "name": "miInformoUrl",
+                    "type": "url"
+                }
+            ]
+        }
+	]
+}

@@ -1,0 +1,15 @@
+{
+    "parameterObjectFieldName":  "",
+    "parameterObjectFieldId":  0,
+    "label":  {
+  "en_US" : "ciao",
+                  "it_IT":  "Regione"
+              },
+    "reverse":  false,
+    "type":  "oneToMany",
+    "name":  "regione",
+    "deletionType":  "disassociate",
+    "objectDefinitionName2":  "Provincia",
+    "objectDefinitionId1":  "[$OBJECT_DEFINITION_ID:Regione$]",
+    "objectDefinitionId2":  "[$OBJECT_DEFINITION_ID:Provincia$]"
+}

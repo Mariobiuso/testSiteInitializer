@@ -1,0 +1,9 @@
+{
+	"friendlyURL": "/area-riservata-utente",
+	"hidden": false,
+	"name": "Area riservata utente",
+	"priority": 0,
+	"private": true,
+	"system": false,
+	"type": "Content"
+}

@@ -1,0 +1,15 @@
+{
+    "parameterObjectFieldName":  "",
+    "parameterObjectFieldId":  0,
+    "label":  {
+  "en_US" : "ciao",
+                  "it_IT":  "Id Tipo Invio Paziente"
+              },
+    "reverse":  false,
+    "type":  "oneToMany",
+    "name":  "idTipoInvioPaziente",
+    "deletionType":  "prevent",
+    "objectDefinitionName2":  "TipoInvioPaziente",
+    "objectDefinitionId1":  "[$OBJECT_DEFINITION_ID:TipoServizio$]",
+    "objectDefinitionId2":  "[$OBJECT_DEFINITION_ID:TipoInvioPaziente$]"
+}

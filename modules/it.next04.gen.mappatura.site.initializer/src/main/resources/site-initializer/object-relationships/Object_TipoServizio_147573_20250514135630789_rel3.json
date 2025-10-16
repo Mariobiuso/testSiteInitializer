@@ -1,0 +1,15 @@
+{
+    "parameterObjectFieldName":  "",
+    "parameterObjectFieldId":  0,
+    "label":  {
+  "en_US" : "ciao",
+                  "it_IT":  "Id Tipo Modalita Accesso"
+              },
+    "reverse":  false,
+    "type":  "oneToMany",
+    "name":  "idTipoModalitaAccesso",
+    "deletionType":  "prevent",
+    "objectDefinitionName2":  "TipoModalitaAccesso",
+    "objectDefinitionId1":  "[$OBJECT_DEFINITION_ID:TipoServizio$]",
+    "objectDefinitionId2":  "[$OBJECT_DEFINITION_ID:TipoModalitaAccesso$]"
+}

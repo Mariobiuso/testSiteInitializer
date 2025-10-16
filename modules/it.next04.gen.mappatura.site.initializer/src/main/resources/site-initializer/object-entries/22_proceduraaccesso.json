@@ -1,0 +1,21 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "OpenDay",
+      "r_idTipoProceduraAccesso_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Prenotazione CUP",
+      "r_idTipoProceduraAccesso_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Accesso libero e autonomo senza impegnativa",
+      "r_idTipoProceduraAccesso_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Altro",
+      "r_idTipoProceduraAccesso_c_tipoServizioId": 0
+    }
+  ],
+  "objectDefinitionName": "ProceduraAccesso"
+}

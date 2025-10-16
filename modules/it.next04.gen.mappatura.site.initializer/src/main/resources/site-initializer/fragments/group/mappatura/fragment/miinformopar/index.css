@@ -1,0 +1,39 @@
+.fragment_35574 {
+}
+
+#mi-informo-par{
+ margin:60px 0px;
+	background-color:#fff;
+}
+
+.mi-informo-par-img{
+ border-radius:10px;
+}
+
+.mi-informo-par p{
+ font-family:'Titillium Web';
+	line-height:1.8;
+}
+
+.mi-informo-par h2 {
+    font-size: 27px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    color: #0f394c;
+    padding-bottom: 20px;
+    font-family: 'Dosis';
+}
+
+.mi-informo-par h4 {
+    font-weight: bold;
+	  font-size:19px;
+    color: #0f394c;
+}
+
+.mi-informo-par-icon{
+   font-size: 30px;
+    margin: 20px 0px;
+    color: #49b5e7;
+}

@@ -1,0 +1,15 @@
+{
+    "parameterObjectFieldName":  "",
+    "parameterObjectFieldId":  0,
+    "label":  {
+  "en_US" : "ciao",
+                  "it_IT":  "Sez C - Collaborazioni"
+              },
+    "reverse":  false,
+    "type":  "oneToMany",
+    "name":  "sezCCollaborazioni",
+    "deletionType":  "disassociate",
+    "objectDefinitionName2":  "Collaborazioni",
+    "objectDefinitionId1":  "[$OBJECT_DEFINITION_ID:Servizio$]",
+    "objectDefinitionId2":  "[$OBJECT_DEFINITION_ID:Collaborazioni$]"
+}

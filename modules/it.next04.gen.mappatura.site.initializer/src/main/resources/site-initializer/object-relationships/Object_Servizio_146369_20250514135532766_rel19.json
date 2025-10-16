@@ -1,0 +1,15 @@
+{
+    "parameterObjectFieldName":  "",
+    "parameterObjectFieldId":  0,
+    "label":  {
+  "en_US" : "ciao",
+                  "it_IT":  "Sez A - Tipo Paziente"
+              },
+    "reverse":  false,
+    "type":  "manyToMany",
+    "name":  "sezATipoPaziente",
+    "deletionType":  "disassociate",
+    "objectDefinitionName2":  "TipoPaziente",
+    "objectDefinitionId1":  "[$OBJECT_DEFINITION_ID:Servizio$]",
+    "objectDefinitionId2":  "[$OBJECT_DEFINITION_ID:TipoPaziente$]"
+}

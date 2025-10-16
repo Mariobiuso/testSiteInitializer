@@ -1,0 +1,15 @@
+{
+    "parameterObjectFieldName":  "",
+    "parameterObjectFieldId":  0,
+    "label":  {
+  "en_US" : "ciao",
+                  "it_IT":  "Sez A - Responsabile"
+              },
+    "reverse":  false,
+    "type":  "oneToMany",
+    "name":  "sezAResponsabile",
+    "deletionType":  "disassociate",
+    "objectDefinitionName2":  "Responsabile",
+    "objectDefinitionId1":  "[$OBJECT_DEFINITION_ID:Servizio$]",
+    "objectDefinitionId2":  "[$OBJECT_DEFINITION_ID:Responsabile$]"
+}

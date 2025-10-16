@@ -1,0 +1,17 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Colloquio motivazionale",
+      "r_idTipoIntervento_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Colloquio telefonico",
+      "r_idTipoIntervento_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Altro",
+      "r_idTipoIntervento_c_tipoServizioId": 0
+    }
+  ],
+  "objectDefinitionName": "TipoIntervento"
+}

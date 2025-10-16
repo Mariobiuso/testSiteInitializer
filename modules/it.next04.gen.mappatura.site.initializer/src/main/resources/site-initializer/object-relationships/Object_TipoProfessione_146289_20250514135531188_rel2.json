@@ -1,0 +1,15 @@
+{
+    "parameterObjectFieldName":  "",
+    "parameterObjectFieldId":  0,
+    "label":  {
+  "en_US" : "ciao",
+                  "it_IT":  "Sez B - Id Tipo Professione"
+              },
+    "reverse":  false,
+    "type":  "oneToMany",
+    "name":  "sezBIdTipoProfessione",
+    "deletionType":  "disassociate",
+    "objectDefinitionName2":  "FiguraProfessionale",
+    "objectDefinitionId1":  "[$OBJECT_DEFINITION_ID:TipoProfessione$]",
+    "objectDefinitionId2":  "[$OBJECT_DEFINITION_ID:FiguraProfessionale$]"
+}

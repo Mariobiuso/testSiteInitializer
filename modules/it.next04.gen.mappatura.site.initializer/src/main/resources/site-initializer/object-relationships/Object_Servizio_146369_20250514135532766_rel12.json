@@ -1,0 +1,15 @@
+{
+    "parameterObjectFieldName":  "",
+    "parameterObjectFieldId":  0,
+    "label":  {
+  "en_US" : "ciao",
+                  "it_IT":  "Sez D - Pazienti Per Eta"
+              },
+    "reverse":  false,
+    "type":  "oneToMany",
+    "name":  "sezDPazientiPerEta",
+    "deletionType":  "disassociate",
+    "objectDefinitionName2":  "PazientiPerEta",
+    "objectDefinitionId1":  "[$OBJECT_DEFINITION_ID:Servizio$]",
+    "objectDefinitionId2":  "[$OBJECT_DEFINITION_ID:PazientiPerEta$]"
+}

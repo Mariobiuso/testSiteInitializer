@@ -1,0 +1,25 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Cartella Clinica",
+      "r_idTipoArchiviazioneDati_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Cartella Clinica Informatizzata",
+      "r_idTipoArchiviazioneDati_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Scheda del paziente",
+      "r_idTipoArchiviazioneDati_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Altro",
+      "r_idTipoArchiviazioneDati_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Cartellino ambulatoriale del paziente",
+      "r_idTipoArchiviazioneDati_c_tipoServizioId": 0
+    }
+  ],
+  "objectDefinitionName": "TipoArchiviazioneDati"
+}

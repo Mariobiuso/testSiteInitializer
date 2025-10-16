@@ -1,0 +1,17 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Pagamento ticket",
+      "r_idTipoModalitaAccesso_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Gratuita",
+      "r_idTipoModalitaAccesso_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Altro",
+      "r_idTipoModalitaAccesso_c_tipoServizioId": 0
+    }
+  ],
+  "objectDefinitionName": "TipoModalitaAccesso"
+}

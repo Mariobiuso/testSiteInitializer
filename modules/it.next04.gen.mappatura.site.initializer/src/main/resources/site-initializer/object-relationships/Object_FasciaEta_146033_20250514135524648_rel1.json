@@ -1,0 +1,15 @@
+{
+    "parameterObjectFieldName":  "",
+    "parameterObjectFieldId":  0,
+    "label":  {
+  "en_US" : "ciao",
+                  "it_IT":  "Id Fascia Eta"
+              },
+    "reverse":  false,
+    "type":  "oneToMany",
+    "name":  "idFasciaEta",
+    "deletionType":  "disassociate",
+    "objectDefinitionName2":  "PazientiPerEta",
+    "objectDefinitionId1":  "[$OBJECT_DEFINITION_ID:FasciaEta$]",
+    "objectDefinitionId2":  "[$OBJECT_DEFINITION_ID:PazientiPerEta$]"
+}

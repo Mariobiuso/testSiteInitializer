@@ -1,0 +1,25 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "CPGI",
+      "r_idTipoStrumentoDiagnostico_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "GABS",
+      "r_idTipoStrumentoDiagnostico_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "SOGS per adulti",
+      "r_idTipoStrumentoDiagnostico_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Altro",
+      "r_idTipoStrumentoDiagnostico_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "AQB",
+      "r_idTipoStrumentoDiagnostico_c_tipoServizioId": 0
+    }
+  ],
+  "objectDefinitionName": "TipoStrumentoDiagnostico"
+}

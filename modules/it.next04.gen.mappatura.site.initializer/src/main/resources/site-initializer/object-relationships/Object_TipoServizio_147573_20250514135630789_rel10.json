@@ -1,0 +1,15 @@
+{
+    "parameterObjectFieldName":  "",
+    "parameterObjectFieldId":  0,
+    "label":  {
+  "en_US" : "ciao",
+                  "it_IT":  "Id Valutazione Offerta Assistenziale"
+              },
+    "reverse":  false,
+    "type":  "oneToMany",
+    "name":  "idValutazioneOffertaAssistenziale",
+    "deletionType":  "prevent",
+    "objectDefinitionName2":  "ValutazioneOffertaAssistenziale",
+    "objectDefinitionId1":  "[$OBJECT_DEFINITION_ID:TipoServizio$]",
+    "objectDefinitionId2":  "[$OBJECT_DEFINITION_ID:ValutazioneOffertaAssistenziale$]"
+}

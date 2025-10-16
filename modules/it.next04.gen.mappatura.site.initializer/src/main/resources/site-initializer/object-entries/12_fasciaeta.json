@@ -1,0 +1,17 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "< 18 anni"
+    },
+    {
+      "descrizione": "18-35 anni"
+    },
+    {
+      "descrizione": "36-67 anni"
+    },
+    {
+      "descrizione": "> 67 anni"
+    }
+  ],
+  "objectDefinitionName": "FasciaEta"
+}

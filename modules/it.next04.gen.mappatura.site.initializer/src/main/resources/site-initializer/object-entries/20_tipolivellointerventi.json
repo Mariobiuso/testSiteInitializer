@@ -1,0 +1,21 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Ambulatoriale",
+      "r_idTipoLivelloInterventi_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Semi residenziale",
+      "r_idTipoLivelloInterventi_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Residenziale",
+      "r_idTipoLivelloInterventi_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Altro",
+      "r_idTipoLivelloInterventi_c_tipoServizioId": 0
+    }
+  ],
+  "objectDefinitionName": "TipoLivelloInterventi"
+}

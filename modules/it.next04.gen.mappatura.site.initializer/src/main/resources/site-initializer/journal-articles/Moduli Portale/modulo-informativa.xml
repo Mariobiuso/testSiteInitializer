@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<root available-locales="it_IT" default-locale="it_IT" version="1.0">
+	<dynamic-element field-reference="content" index-type="text" instance-id="0H7Y5sA8" name="content" type="rich_text">
+		<dynamic-content language-id="it_IT">
+			<![CDATA[
+				<p align="center" style="text-align:center; margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:13.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"></span></span></span></b></span></span></span></p>
+
+			<p align="center" style="text-align:center; margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><b><span style="font-size:13.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif">INFORMAZIONI PRIVACY&nbsp;</span></span></span></b></span></span></span></p>
+
+			]]>
+		</dynamic-content>
+	</dynamic-element>
+</root>

@@ -1,0 +1,14 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Pubblico"
+    },
+    {
+      "descrizione": "Privato"
+    },
+    {
+      "descrizione": "Mutuo Aiuto"
+    }
+  ],
+  "objectDefinitionName": "TipoServizio"
+}

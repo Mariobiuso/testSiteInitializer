@@ -1,0 +1,17 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Malessere percepito",
+      "r_idTipoDisturboPaziente_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Problemi legali",
+      "r_idTipoDisturboPaziente_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Debiti",
+      "r_idTipoDisturboPaziente_c_tipoServizioId": 0
+    }
+  ],
+  "objectDefinitionName": "TipoDisturboPaziente"
+}

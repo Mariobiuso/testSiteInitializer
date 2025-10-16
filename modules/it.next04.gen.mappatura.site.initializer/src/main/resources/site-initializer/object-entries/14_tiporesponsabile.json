@@ -1,0 +1,11 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Responsabile"
+    },
+    {
+      "descrizione": "Referente"
+    }
+  ],
+  "objectDefinitionName": "TipoResponsabile"
+}

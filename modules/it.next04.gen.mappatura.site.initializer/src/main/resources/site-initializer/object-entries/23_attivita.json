@@ -1,0 +1,35 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Internet",
+      "r_idAttivita_c_tipoServizioId": 0,
+      "r_tipoAttivita_c_tipoAttivitaERC": "Pubblicizzazione"
+    },
+    {
+      "descrizione": "Carta dei servizi",
+      "r_idAttivita_c_tipoServizioId": 0,
+      "r_tipoAttivita_c_tipoAttivitaERC": "Pubblicizzazione"
+    },
+    {
+      "descrizione": "Telefono Verde",
+      "r_idAttivita_c_tipoServizioId": 0,
+      "r_tipoAttivita_c_tipoAttivitaERC": "Extra"
+    },
+    {
+      "descrizione": "Altro",
+      "r_idAttivita_c_tipoServizioId": 0,
+      "r_tipoAttivita_c_tipoAttivitaERC": "Pubblicizzazione"
+    },
+    {
+      "descrizione": "Sportello ascolto",
+      "r_idAttivita_c_tipoServizioId": 0,
+      "r_tipoAttivita_c_tipoAttivitaERC": "Extra"
+    },
+    {
+      "descrizione": "Altro",
+      "r_idAttivita_c_tipoServizioId": 0,
+      "r_tipoAttivita_c_tipoAttivitaERC": "Extra"
+    }
+  ],
+  "objectDefinitionName": "Attivita"
+}

@@ -1,0 +1,284 @@
+{
+    "enableComments": false,
+    "enableCategorization": true,
+    "objectFolderExternalReferenceCode": "MAPPATURA",
+    "accountEntryRestrictedObjectFieldName": "",
+    "objectActions": [],
+    "accountEntryRestricted": false,
+    "externalReferenceCode": "Responsabile",
+    "objectFields": [
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Cognome"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "26978c91-85cc-0e30-2f37-584f32edcfba",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "name": "cognome",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Creazione"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "6838cfc0-6873-327b-ac85-455dc6f90c14",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "createDate",
+            "state": false,
+            "businessType": "Date"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Autore"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "93ee59fa-9360-f575-08a1-02e8667606a9",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "creator",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Boolean",
+            "label": {
+                "it_IT": "Delega"
+            },
+            "type": "Boolean",
+            "required": false,
+            "externalReferenceCode": "adafac2c-fe95-6278-f56f-fbc9610fb9a2",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "delega",
+            "state": false,
+            "businessType": "Boolean"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Codice di riferimento esterno"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "b50d2f49-2766-cc34-8538-58e06f9cb3d9",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "externalReferenceCode",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Formalizzazione Incarico"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "bf2eb826-ebe8-0566-1613-bbedc6c7048b",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "name": "formalizzazioneIncarico",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Long",
+            "label": {
+                "it_IT": "Id"
+            },
+            "type": "Long",
+            "required": false,
+            "externalReferenceCode": "da43115b-19cb-817a-7d2e-370a4096b852",
+            "indexedAsKeyword": true,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "id",
+            "state": false,
+            "businessType": "LongInteger"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Ultima Modifica"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "5f0e7fd1-dd7e-4cb5-e22f-8da8e00ada2e",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "modifiedDate",
+            "state": false,
+            "businessType": "Date"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Nome"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "4d93e4bf-6692-0890-723d-a334ec735ce3",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "name": "nome",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Integer",
+            "label": {
+                "it_IT": "Ore Settimanali"
+            },
+            "type": "Integer",
+            "required": false,
+            "externalReferenceCode": "3b24e3c7-b2a4-5390-c426-b43a30599e3f",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "oreSettimanali",
+            "state": false,
+            "businessType": "Integer"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Stato"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "fa51112d-9b27-572f-4c50-e9a74c5f1045",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "status",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Tipo Professione Descrizione Altro"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "13f308d5-d2cb-9eb7-2a2b-190dd4178f0b",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "name": "tipoProfessioneDescAltro",
+            "state": false,
+            "businessType": "Text"
+        }
+    ],
+    "restContextPath": "/o/c/responsabiles",
+    "scope": "site",
+    "portlet": false,
+    "parameterRequired": false,
+    "enableObjectEntryHistory": false,
+    "titleObjectFieldName": "id",
+    "active": true,
+    "defaultLanguageId": "it_IT",
+    "label": {
+        "it_IT": "Responsabile"
+    },
+    "panelCategoryKey": "site_administration.publishing",
+    "pluralLabel": {
+        "it_IT": "Responsabili"
+    },
+    "objectLayouts": [],
+    "system": false,
+    "objectViews": [],
+    "name": "Responsabile",
+    "actions": {
+        "permissions": {},
+        "get": {},
+        "update": {},
+        "delete": {}
+    }
+}

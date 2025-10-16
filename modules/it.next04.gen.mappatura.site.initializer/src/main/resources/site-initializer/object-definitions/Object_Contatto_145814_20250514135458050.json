@@ -1,0 +1,337 @@
+{
+    "enableComments": false,
+    "enableCategorization": true,
+    "objectFolderExternalReferenceCode": "MAPPATURA",
+    "accountEntryRestrictedObjectFieldName": "",
+    "objectActions": [],
+    "accountEntryRestricted": false,
+    "externalReferenceCode": "Contatto",
+    "objectFields": [
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Cellulare"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "6bd3bc8c-ecbc-ef10-4629-46894370dfe4",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "name": "cellulare",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Creazione"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "1ec7d370-1a21-c154-75c1-f9f11e8a9cb8",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "createDate",
+            "state": false,
+            "businessType": "Date"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Autore"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "97c9a42d-0519-66b6-78fb-12fea382a574",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "creator",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Cup"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "49941a07-3a05-e9c9-41b5-0edeacd7fea5",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "name": "cup",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Email"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "1e494a31-e4f2-c842-66da-b89a101e0384",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "name": "email",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Codice di riferimento esterno"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "85c42d70-7bf1-e1ff-6bc0-408f45ae2f9c",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "externalReferenceCode",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Fax"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "5356d8c0-60cb-05ce-42a8-e729c269f2d7",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "name": "fax",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Long",
+            "label": {
+                "it_IT": "Id"
+            },
+            "type": "Long",
+            "required": false,
+            "externalReferenceCode": "b4d83c94-601d-4c1a-aa76-b977575ab8e2",
+            "indexedAsKeyword": true,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "id",
+            "state": false,
+            "businessType": "LongInteger"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Indirizzo Web"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "1e3e2ff7-965d-98b3-e9ac-1b50fe659d7c",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "name": "indirizzoWeb",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Ultima Modifica"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "3502ad99-ad06-c701-1eb2-3f0ede27ea1f",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "modifiedDate",
+            "state": false,
+            "businessType": "Date"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Pec"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "60af9c7a-a155-6cc7-79e7-fb2cbcb33863",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "name": "pec",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "Boolean",
+            "label": {
+                "it_IT": "Predefinito"
+            },
+            "type": "Boolean",
+            "required": false,
+            "externalReferenceCode": "6c57c862-1933-de98-e80e-0dfb4af4176d",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "",
+            "name": "predefinito",
+            "state": false,
+            "businessType": "Boolean"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": false,
+            "defaultValue": "",
+            "objectFieldSettings": [],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Stato"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "535d5e2a-033e-2095-1597-eb99b486228b",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "name": "status",
+            "state": false,
+            "businessType": "Text"
+        },
+        {
+            "listTypeDefinitionExternalReferenceCode": "",
+            "indexed": true,
+            "defaultValue": "",
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": "false"
+                }
+            ],
+            "DBType": "String",
+            "label": {
+                "it_IT": "Telefono"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "72818d36-a8e1-f0fd-1346-d57e454580d0",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "name": "telefono",
+            "state": false,
+            "businessType": "Text"
+        }
+    ],
+    "restContextPath": "/o/c/contattos",
+    "scope": "site",
+    "portlet": false,
+    "parameterRequired": false,
+    "enableObjectEntryHistory": false,
+    "titleObjectFieldName": "id",
+    "active": true,
+    "defaultLanguageId": "it_IT",
+    "label": {
+        "it_IT": "Contatto"
+    },
+    "panelCategoryKey": "site_administration.publishing",
+    "pluralLabel": {
+        "it_IT": "Contatti"
+    },
+    "objectLayouts": [],
+    "system": false,
+    "objectViews": [],
+    "name": "Contatto",
+    "actions": {
+        "permissions": {},
+        "get": {},
+        "update": {},
+        "delete": {}
+    }
+}

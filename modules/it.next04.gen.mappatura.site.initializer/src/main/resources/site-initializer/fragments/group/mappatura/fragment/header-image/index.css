@@ -1,0 +1,39 @@
+.fragment_6 {
+}
+
+#centri {
+		width: 100%;
+		background: #f9f9f9;
+	}
+	
+	#centri h1 {
+		margin: 0;
+		font-size: 36px;
+		font-weight: bold;
+		line-height: 56px;
+		color: #0f394c;
+		text-transform: uppercase;
+		font-family:'Dosis';
+	}
+	
+	#centri p {
+		color: #1c698c;
+		margin: 10px 0 0 0;
+		font-size: 20px;
+	}
+	
+	#centri .btn-get-started {
+		font-family:'Dosis';
+		font-weight: 500;
+		font-size: 16px;
+		letter-spacing: 1px;
+		display: inline-block;
+		padding: 8px 28px;
+		border-radius: 3px;
+		transition: 0.5s;
+		margin-top: 25px;
+		color: #fff;
+		background: #49b5e7;
+		text-transform: uppercase;
+		text-decoration:none;
+	}

@@ -1,0 +1,26 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Nessuno"
+    },
+    {
+      "descrizione": "Formazione a distanza"
+    },
+    {
+      "descrizione": "Formazione in aula"
+    },
+    {
+      "descrizione": "Formazione accreditata"
+    },
+    {
+      "descrizione": "Autoapprendimento"
+    },
+    {
+      "descrizione": "Formazione non accreditata"
+    },
+    {
+      "descrizione": "Altro"
+    }
+  ],
+  "objectDefinitionName": "TipoFormazione"
+}

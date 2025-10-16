@@ -1,0 +1,13 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Pediatrici",
+      "r_idTipoPaziente_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Adulti",
+      "r_idTipoPaziente_c_tipoServizioId": 0
+    }
+  ],
+  "objectDefinitionName": "TipoPaziente"
+}

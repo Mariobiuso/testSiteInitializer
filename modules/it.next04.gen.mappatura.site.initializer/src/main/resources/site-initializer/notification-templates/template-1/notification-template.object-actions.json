@@ -1,0 +1,16 @@
+[
+	{
+		"active": true,
+		"externalReferenceCode": "ObjectActionSendEmailPubblicato",
+		"label": {
+			"it_IT": "sendEmailPubblicato"
+		},
+		"errorMessage": {
+			"it_IT": "Errore invio email pubblicato "
+		},
+		"name": "sendEmailPubblicato",
+		"objectActionExecutorKey": "notification",
+		"objectActionTriggerKey": "standalone",
+		"objectDefinitionId": "[$OBJECT_DEFINITION_ID:Servizio$]"
+	}
+]

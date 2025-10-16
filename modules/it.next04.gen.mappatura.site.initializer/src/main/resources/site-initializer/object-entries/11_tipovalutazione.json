@@ -1,0 +1,33 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Valutazione multidisciplinare",
+      "externalReferenceCode": "Valutazione multidisciplinare"
+    },
+    {
+      "descrizione": "Valutazione outcome",
+      "externalReferenceCode": "Valutazione outcome"
+    },
+    {
+      "descrizione": "Valutazione follow up",
+      "externalReferenceCode": "Valutazione follow up"
+    },
+    {
+      "descrizione": "Valutazione medica",
+      "externalReferenceCode": "Valutazione medica"
+    },
+    {
+      "descrizione": "Valutazione psicodiagnostica",
+      "externalReferenceCode": "Valutazione psicodiagnostica"
+    },
+    {
+      "descrizione": "Valutazione psicologica",
+      "externalReferenceCode": "Valutazione psicologica"
+    },
+    {
+      "descrizione": "Valutazione sociale",
+      "externalReferenceCode": "Valutazione sociale"
+    }
+  ],
+  "objectDefinitionName": "TipoValutazione"
+}

@@ -1,0 +1,81 @@
+.fragment_35097 {
+}
+
+#contatti-map { height: 300px; }
+
+#contatti{
+  padding:80px 0px;
+	background-color:#f0f9fd;
+}
+
+.contatti-title{
+  position: relative;
+  margin-bottom: 40px;
+}
+
+.contatti-title h2{
+  font-size: 27px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    color: #0f394c;
+    padding-bottom: 20px;
+    font-family: 'Dosis';
+}
+
+.contatti-title h2::after{
+    content: "";
+    position: absolute;
+    display: block;
+    width: 50px;
+    height: 3px;
+    background: #49b5e7;
+    bottom: 0;
+    left: calc(50% - 25px);
+}
+
+.contatti-card{
+   transition: all ease-in-out 0.3s;
+   background: #fff;
+   border-radius: 5px;
+   box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1);
+	 height:100%;
+}
+
+.contatti-card-body{
+   padding:40px;
+	
+}
+
+.contatti-card-body h5{
+   color:#0f394c;
+	 font-family:'Dosis';
+	 margin-top:15px;
+	 font-weight:bold;
+}
+
+.contatti-icon-main{
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+
+.contatti-icon{
+  position: relative;
+    width: 80px;
+    height: 80px;
+    background: rgba(240, 249, 253, 0.7);
+    border-radius: 5px;
+    border-radius: 50%;
+}
+
+
+.contatti-icon i {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: #49b5e7;
+    font-size: 28px;
+}

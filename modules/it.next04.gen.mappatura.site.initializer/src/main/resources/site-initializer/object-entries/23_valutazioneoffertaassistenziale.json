@@ -1,0 +1,155 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Presenza di debiti con organizzazioni autorizzate",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione sociale"
+    },
+    {
+      "descrizione": "Situazione abitativa",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione sociale"
+    },
+    {
+      "descrizione": "Colloquio motivazionale",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione psicologica"
+    },
+    {
+      "descrizione": "Somministrazione test di intelligenza",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione psicodiagnostica"
+    },
+    {
+      "descrizione": "Visita medica generica",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione medica"
+    },
+    {
+      "descrizione": "Dichiarazione del paziente",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione outcome"
+    },
+    {
+      "descrizione": "Griglie di valutazione",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione outcome"
+    },
+    {
+      "descrizione": "Entro tre mesi dalla fine del trattamento",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione follow up"
+    },
+    {
+      "descrizione": "DSM 5",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione multidisciplinare"
+    },
+    {
+      "descrizione": "ICD 10",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione multidisciplinare"
+    },
+    {
+      "descrizione": "Valutazione psicodiagnostica",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione psicologica"
+    },
+    {
+      "descrizione": "Entro sei mesi dalla fine del trattamento",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione follow up"
+    },
+    {
+      "descrizione": "Oltre un anno dalla fine del trattamento",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione follow up"
+    },
+    {
+      "descrizione": "Somministrazione test proiettivi",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione psicodiagnostica"
+    },
+    {
+      "descrizione": "Screening ematochimico",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione medica"
+    },
+    {
+      "descrizione": "Indicatori di esito scelti dal servizio",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione outcome"
+    },
+    {
+      "descrizione": "Entro un anno dalla fine del trattamento",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione follow up"
+    },
+    {
+      "descrizione": "Mai",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione follow up"
+    },
+    {
+      "descrizione": "Entro nove mesi dalla fine del trattamento",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione follow up"
+    },
+    {
+      "descrizione": "ICD 11",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione multidisciplinare"
+    },
+    {
+      "descrizione": "Nessuna",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione psicologica"
+    },
+    {
+      "descrizione": "Nessuna",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione medica"
+    },
+    {
+      "descrizione": "Nessuna",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione psicodiagnostica"
+    },
+    {
+      "descrizione": "Nessuna",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione sociale"
+    },
+    {
+      "descrizione": "Altro",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione sociale"
+    },
+    {
+      "descrizione": "Altro",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione medica"
+    },
+    {
+      "descrizione": "Altro",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione outcome"
+    },
+    {
+      "descrizione": "Altro",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione multidisciplinare"
+    },
+    {
+      "descrizione": "Altro",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione psicodiagnostica"
+    },
+    {
+      "descrizione": "Altro",
+      "r_idValutazioneOffertaAssistenziale_c_tipoServizioId": 0,
+      "r_tipoValutazione_c_tipoValutazioneERC": "Valutazione psicologica"
+    }
+  ],
+  "objectDefinitionName": "ValutazioneOffertaAssistenziale"
+}

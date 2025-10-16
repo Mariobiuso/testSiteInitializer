@@ -1,0 +1,33 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Psichiatra",
+      "r_idTipoInvioPaziente_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Servizi sociali",
+      "r_idTipoInvioPaziente_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Familiari",
+      "r_idTipoInvioPaziente_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Telefono verde",
+      "r_idTipoInvioPaziente_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Servizi appartenenti all'SSN",
+      "r_idTipoInvioPaziente_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Altro",
+      "r_idTipoInvioPaziente_c_tipoServizioId": 0
+    },
+    {
+      "descrizione": "Amici",
+      "r_idTipoInvioPaziente_c_tipoServizioId": 0
+    }
+  ],
+  "objectDefinitionName": "TipoInvioPaziente"
+}

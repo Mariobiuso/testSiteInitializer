@@ -1,0 +1,16 @@
+{
+	"pageElement": {
+		"pageElements": [
+			{
+				"definition": {
+					"widgetInstance": {
+						"widgetConfig": {},
+						"widgetName": "dashboard_grafici_DashboardGraficiGenPortlet"
+					}
+				},
+				"type": "Widget"
+			}
+		],
+		"type": "Root"
+	}
+}

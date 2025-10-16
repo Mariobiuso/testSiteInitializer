@@ -1,0 +1,5 @@
+{
+   "className": "com.liferay.portal.kernel.servlet.taglib.ui.BreadcrumbEntry",
+   "name": "Briciole di pane custom",
+   "resourceClassName": "com.liferay.portlet.display.template.PortletDisplayTemplate"
+}

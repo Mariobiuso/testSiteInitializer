@@ -1,0 +1,17 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "IRCCS"
+    },
+    {
+      "descrizione": "Struttura Privata"
+    },
+    {
+      "descrizione": "Azienda Ospedaliera"
+    },
+    {
+      "descrizione": "Azienda Sanitaria"
+    }
+  ],
+  "objectDefinitionName": "TipoAzienda"
+}

@@ -1,0 +1,15 @@
+{
+    "parameterObjectFieldName":  "",
+    "parameterObjectFieldId":  0,
+    "label":  {
+  "en_US" : "ciao",
+                  "it_IT":  "Id Tipo Servizio Collab"
+              },
+    "reverse":  false,
+    "type":  "oneToMany",
+    "name":  "idTipoServizioCollab",
+    "deletionType":  "disassociate",
+    "objectDefinitionName2":  "Collaborazioni",
+    "objectDefinitionId1":  "[$OBJECT_DEFINITION_ID:TipoServizio$]",
+    "objectDefinitionId2":  "[$OBJECT_DEFINITION_ID:Collaborazioni$]"
+}

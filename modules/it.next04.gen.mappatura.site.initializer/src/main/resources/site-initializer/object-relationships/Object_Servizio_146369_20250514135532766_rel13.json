@@ -1,0 +1,15 @@
+{
+    "parameterObjectFieldName":  "",
+    "parameterObjectFieldId":  0,
+    "label":  {
+  "en_US" : "ciao",
+                  "it_IT":  "sez A - Tipo Modalita Accesso"
+              },
+    "reverse":  false,
+    "type":  "manyToMany",
+    "name":  "sezATipoModalitaAccesso",
+    "deletionType":  "disassociate",
+    "objectDefinitionName2":  "TipoModalitaAccesso",
+    "objectDefinitionId1":  "[$OBJECT_DEFINITION_ID:Servizio$]",
+    "objectDefinitionId2":  "[$OBJECT_DEFINITION_ID:TipoModalitaAccesso$]"
+}

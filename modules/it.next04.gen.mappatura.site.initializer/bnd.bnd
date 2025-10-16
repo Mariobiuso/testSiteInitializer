@@ -1,0 +1,6 @@
+Bundle-Name: Liferay Site Initializer Mappatura
+Bundle-SymbolicName: it.next04.gen.mappatura.site.initializer
+Bundle-Version: 1.0.0
+Liferay-Site-Initializer-Name: Mappatura 
+Provide-Capability: liferay.site.initializer
+Web-ContextPath: /site-initializer-mappatura

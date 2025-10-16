@@ -1,0 +1,15 @@
+{
+    "parameterObjectFieldName":  "",
+    "parameterObjectFieldId":  0,
+    "label":  {
+  "en_US" : "ciao",
+                  "it_IT":  "sez A - Procedura Accesso "
+              },
+    "reverse":  false,
+    "type":  "manyToMany",
+    "name":  "sezAProceduraAccesso",
+    "deletionType":  "disassociate",
+    "objectDefinitionName2":  "ProceduraAccesso",
+    "objectDefinitionId1":  "[$OBJECT_DEFINITION_ID:Servizio$]",
+    "objectDefinitionId2":  "[$OBJECT_DEFINITION_ID:ProceduraAccesso$]"
+}

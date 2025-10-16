@@ -1,0 +1,17 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Pubblicizzazione",
+      "externalReferenceCode": "Pubblicizzazione"
+    },
+    {
+      "descrizione": "Extra",
+      "externalReferenceCode": "Extra"
+    },
+    {
+      "descrizione": "Prestazioni",
+      "externalReferenceCode": "Prestazioni"
+    }
+  ],
+  "objectDefinitionName": "TipoAttivita"
+}

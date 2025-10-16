@@ -1,0 +1,65 @@
+{
+  "object-entries": [
+    {
+      "descrizione": "Pneumologo"
+    },
+    {
+      "descrizione": "Pediatra"
+    },
+    {
+      "descrizione": "Cardiologo"
+    },
+    {
+      "descrizione": "Psicologo"
+    },
+    {
+      "descrizione": "Dermatologo"
+    },
+    {
+      "descrizione": "Fisioterapista"
+    },
+    {
+      "descrizione": "Infettivologo"
+    },
+    {
+      "descrizione": "Reumatologo"
+    },
+    {
+      "descrizione": "Endocrinologo/Diabetologo"
+    },
+    {
+      "descrizione": "Fisiatra"
+    },
+    {
+      "descrizione": "Gastroenterologo"
+    },
+    {
+      "descrizione": "Genetista"
+    },
+    {
+      "descrizione": "Geriatra"
+    },
+    {
+      "descrizione": "Odontoiatra"
+    },
+    {
+      "descrizione": "Otorinolaringoiatra"
+    },
+    {
+      "descrizione": "Nefrologo"
+    },
+    {
+      "descrizione": "Neurologo"
+    },
+    {
+      "descrizione": "Nutrizionista/dietologo"
+    },
+    {
+      "descrizione": "Psichiatra"
+    },
+    {
+      "descrizione": "Terapista occupazionale"
+    }
+  ],
+  "objectDefinitionName": "TipoProfessione"
+}

@@ -1,0 +1,41 @@
+.fragment_35170 {
+}
+
+.in-evidenza{
+  background:#f0f9fd;
+	min-height:100px;
+	padding:40px 0px;
+}
+
+.cards-icon-container{
+   position:relative;
+	 width:100px;
+	 height:100px;
+	 background: #d2edf9;
+	 border-radius:5px;
+	 margin-right:20px;
+}
+
+.cards-icon-container i{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+	  color:#49b5e7;
+	  font-size:28px;
+}
+
+.cards-title a{
+  color:#0f394c;
+}
+
+.cards-title a{
+  font-size:18px;
+	font-family:'Titillium Web';
+	font-weight:bold;
+}
+
+.cards-description{
+  font-family:'Titillium Web';
+}
+

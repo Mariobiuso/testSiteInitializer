@@ -1,0 +1,35 @@
+{
+	"fieldSets": [
+		{
+            "fields": [
+                {
+                    "name": "title",
+                    "label": "Title",
+                    "description": "header section title",
+                    "type": "text",
+                    "typeOptions": {
+                        "placeholder": "Placeholder"
+                    },
+                    "dataType": "string",
+                    "defaultValue": "Disturbi alimentari"
+                },
+							 {
+                    "name": "description",
+                    "label": "Description",
+                    "description": "header section description",
+                    "type": "text",
+                    "typeOptions": {
+                        "placeholder": "Placeholder"
+                    },
+                    "dataType": "string",
+                    "defaultValue": "Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem."
+                },
+							  {
+                    "label": "Image Url",
+                    "name": "imageUrl",
+                    "type": "url"
+                }
+            ]
+        }
+	]
+}

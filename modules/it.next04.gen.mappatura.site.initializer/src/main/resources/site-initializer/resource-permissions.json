@@ -1,0 +1,1333 @@
+[
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Attivita$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Collaborazioni$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Contatto$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:DescrizioneAltro$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:FasciaEta$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:FiguraProfessionale$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Orario$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:PazientiPerEta$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:ProceduraAccesso$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Provincia$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Regione$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Responsabile$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Servizio$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Stato$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoArchiviazioneDati$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoAttivita$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoAzienda$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoDisturboPaziente$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoFormazione$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoIntervento$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoInvioPaziente$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoLivelloInterventi$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoModalitaAccesso$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoPaziente$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoProceduraPresaInCarico$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoProfessione$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoResponsabile$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoServizio$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoStrumentoDiagnostico$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoValutazione$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:ValutazioneOffertaAssistenziale$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:ValutazioneServizio$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Contatto$]",
+    "roleName": "Responsabile Centro Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:FasciaEta$]",
+    "roleName": "Responsabile Centro Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "com.liferay.account.model.AccountRole",
+    "roleName": "Responsabile Centro Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "com.liferay.object.model.ObjectDefinition",
+    "roleName": "Responsabile Centro Mappatura",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "com.liferay.expando.kernel.model.ExpandoColumn",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Attivita$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Collaborazioni$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoServizio$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Contatto$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:DescrizioneAltro$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:FasciaEta$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:FiguraProfessionale$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Orario$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:PazientiPerEta$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:ProceduraAccesso$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Provincia$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Regione$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Responsabile$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Servizio$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Stato$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoArchiviazioneDati$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoAttivita$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoAzienda$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoDisturboPaziente$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoFormazione$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoIntervento$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoInvioPaziente$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoLivelloInterventi$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoModalitaAccesso$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoPaziente$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoProceduraPresaInCarico$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoProfessione$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoResponsabile$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoStrumentoDiagnostico$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoValutazione$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:ValutazioneOffertaAssistenziale$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:ValutazioneServizio$]",
+    "roleName": "Guest",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Attivita$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Collaborazioni$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Contatto$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:DescrizioneAltro$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:FasciaEta$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:FiguraProfessionale$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Orario$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:PazientiPerEta$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:ProceduraAccesso$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Provincia$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Regione$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Responsabile$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Servizio$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:Stato$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoArchiviazioneDati$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoAttivita$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoAzienda$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoDisturboPaziente$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoFormazione$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoIntervento$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoInvioPaziente$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoLivelloInterventi$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoModalitaAccesso$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoPaziente$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoProceduraPresaInCarico$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoProfessione$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoResponsabile$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoServizio$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoStrumentoDiagnostico$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:TipoValutazione$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:ValutazioneOffertaAssistenziale$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "DELETE",
+      "PERMISSIONS",
+      "UPDATE",
+      "VIEW"
+    ],
+    "primKey": "0",
+    "resourceName": "[$OBJECT_DEFINITION_CLASS_NAME:ValutazioneServizio$]",
+    "roleName": "User",
+    "scope": "1"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:Attivita$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:Collaborazioni$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:Contatto$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:DescrizioneAltro$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:FasciaEta$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:FiguraProfessionale$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:Orario$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:PazientiPerEta$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:ProceduraAccesso$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:Provincia$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:Regione$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:Responsabile$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:Servizio$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:Stato$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:TipoArchiviazioneDati$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:TipoAttivita$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:TipoAzienda$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:TipoDisturboPaziente$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:TipoFormazione$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:TipoIntervento$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:TipoInvioPaziente$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:TipoLivelloInterventi$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:TipoModalitaAccesso$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:TipoPaziente$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:TipoProceduraPresaInCarico$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:TipoProfessione$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:TipoResponsabile$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:TipoServizio$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:TipoStrumentoDiagnostico$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:TipoValutazione$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:ValutazioneOffertaAssistenziale$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  },
+  {
+    "actionIds": [
+      "ADD_OBJECT_ENTRY"
+    ],
+    "primKey": "[$GROUP_ID$]",
+    "resourceName": "com.liferay.object#[$OBJECT_DEFINITION_ID:ValutazioneServizio$]",
+    "roleName": "Amministrazione Mappatura",
+    "scope": "2"
+  }
+]

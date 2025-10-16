@@ -1,0 +1,41 @@
+{
+	"fieldSets": [
+		{
+            "fields": [
+                {
+                    "name": "title",
+                    "label": "Title",
+                    "description": "paragraph section title",
+                    "type": "text",
+                    "typeOptions": {
+                        "placeholder": "Placeholder"
+                    },
+                    "dataType": "string",
+                    "defaultValue": "I disturbi della nutrizione e dell'alimentazione"
+                },
+							  {
+                    "name": "description",
+                    "label": "Description",
+                    "description": "paragraph section description",
+                    "type": "text",
+                    "typeOptions": {
+                        "placeholder": "Placeholder"
+                    },
+                    "dataType": "string",
+                    "defaultValue": "Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem."
+                }	,
+							 {
+                    "name": "description1",
+                    "label": "Description",
+                    "description": "paragraph section description",
+                    "type": "text",
+                    "typeOptions": {
+                        "placeholder": "Placeholder"
+                    },
+                    "dataType": "string",
+                    "defaultValue": "Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem."
+                }	
+            ]
+        }
+	]
+}

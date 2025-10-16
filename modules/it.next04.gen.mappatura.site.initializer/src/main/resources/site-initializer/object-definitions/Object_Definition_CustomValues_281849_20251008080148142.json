@@ -1,0 +1,196 @@
+{
+    "enableComments": false,
+    "objectRelationships": [],
+    "objectFolderExternalReferenceCode": "MAPPATURA",
+    "enableCategorization": true,
+    "accountEntryRestrictedObjectFieldName": "",
+    "className": "com.liferay.object.model.ObjectDefinition#U9Z7",
+    "objectActions": [],
+    "enableLocalization": false,
+    "accountEntryRestricted": false,
+    "externalReferenceCode": "CustomValues",
+    "objectFields": [
+        {
+            "indexed": false,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "true",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Autore"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "6b735dcb-c4d8-bc6d-3c86-8823541b4377",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "creator",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": false,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "true",
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Creazione"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "23288657-4f0f-8025-8efa-e6f86e541509",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "createDate",
+            "state": false,
+            "businessType": "Date",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": false,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "false",
+            "DBType": "String",
+            "label": {
+                "it_IT": "Codice di riferimento esterno"
+            },
+            "type": "String",
+            "required": false,
+            "externalReferenceCode": "cedc7d52-dda1-1249-a074-b98dbe66b8c4",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "externalReferenceCode",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "true",
+            "DBType": "Long",
+            "label": {
+                "it_IT": "Id"
+            },
+            "type": "Long",
+            "required": false,
+            "externalReferenceCode": "a81f388d-9419-c5e9-3998-050734f1ff94",
+            "indexedAsKeyword": true,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "id",
+            "state": false,
+            "businessType": "LongInteger",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": false,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "true",
+            "DBType": "Date",
+            "label": {
+                "it_IT": "Data Ultima Modifica"
+            },
+            "type": "Date",
+            "required": false,
+            "externalReferenceCode": "5e941a20-ff4f-70db-e555-be795a36bc30",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "modifiedDate",
+            "state": false,
+            "businessType": "Date",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": false,
+            "localized": false,
+            "objectFieldSettings": [],
+            "readOnly": "true",
+            "DBType": "Integer",
+            "label": {
+                "it_IT": "Stato"
+            },
+            "type": "Integer",
+            "required": false,
+            "externalReferenceCode": "374d9e3a-855f-2ede-8424-148b04b73236",
+            "indexedAsKeyword": false,
+            "system": true,
+            "indexedLanguageId": "",
+            "unique": false,
+            "name": "status",
+            "state": false,
+            "businessType": "Text",
+            "readOnlyConditionExpression": ""
+        },
+        {
+            "indexed": true,
+            "localized": false,
+            "objectFieldSettings": [
+                {
+                    "name": "showCounter",
+                    "value": false
+                }
+            ],
+            "readOnly": "false",
+            "DBType": "Clob",
+            "label": {
+                "it_IT": "Valore"
+            },
+            "type": "Clob",
+            "required": false,
+            "externalReferenceCode": "a9ff7a5f-dc5f-aecb-88f4-ce3bf4eef8c6",
+            "indexedAsKeyword": false,
+            "system": false,
+            "indexedLanguageId": "it_IT",
+            "unique": false,
+            "name": "valore",
+            "state": false,
+            "businessType": "LongText",
+            "readOnlyConditionExpression": ""
+        }
+    ],
+    "restContextPath": "/o/c/customvalueses",
+    "scope": "site",
+    "portlet": true,
+    "modifiable": true,
+    "parameterRequired": false,
+    "enableObjectEntryHistory": false,
+    "titleObjectFieldName": "id",
+    "objectValidationRules": [],
+    "active": true,
+    "defaultLanguageId": "it_IT",
+    "enableIndexSearch": true,
+    "label": {
+        "it_IT": "Custom Values"
+    },
+    "panelCategoryKey": "site_administration.publishing",
+    "pluralLabel": {
+        "it_IT": "Custom Values"
+    },
+    "objectLayouts": [],
+    "system": false,
+    "objectViews": [],
+    "enableObjectEntryDraft": false,
+    "name": "CustomValues",
+    "actions": {
+        "permissions": {},
+        "get": {},
+        "update": {},
+        "delete": {},
+        "exportObjectDefinition": {}
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"friendlyURL": "/dashboard",
+	"hidden": false,
+	"name": "Dashboard",
+	"priority": 1,
+	"private": true,
+	"system": false,
+	"type": "Content"
+}

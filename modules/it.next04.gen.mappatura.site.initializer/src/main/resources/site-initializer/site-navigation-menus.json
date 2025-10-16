@@ -1,0 +1,21 @@
+[
+	{
+		"menuItems": [			
+			{
+				"friendlyURL": "/area-riservata-utente",
+				"privateLayout": true,
+				"type": "layout"
+			},
+			{
+				"url": "/c/portal/logout",
+				"privateLayout": true,
+				"type": "url",
+                "name_i18n": {
+					"it_IT": "Esci"
+				}
+			}
+		],
+        "typeSite": 2,
+		"name": "Menu Area Riservata"
+	}
+]
